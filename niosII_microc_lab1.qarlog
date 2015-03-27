@@ -1,0 +1,89 @@
+Quartus II Archive log --	C:/Users/crinklaw/Unification/niosII_microc_lab1.qarlog
+
+Archive:	C:/Users/crinklaw/Unification/niosII_microc_lab1.qar
+Date:		Wed Mar 18 18:51:59 2015
+Quartus II 64-Bit		12.1 Build 243 01/31/2013 SP 1.33 SJ Full Version
+
+	=========== Files Selected: ===========
+C:/Users/crinklaw/Unification/StreamingTest_hw.tcl
+C:/Users/crinklaw/Unification/SynthesizerVHDL/AddressIncrementor.vhd
+C:/Users/crinklaw/Unification/SynthesizerVHDL/SinLut.vhd
+C:/Users/crinklaw/Unification/SynthesizerVHDL/Synthesizer.vhd
+C:/Users/crinklaw/Unification/SynthesizerVHDL/SynthesizerPackage.vhd
+C:/Users/crinklaw/Unification/SynthesizerVHDL/SynthesizerTopLevel.vhd
+C:/Users/crinklaw/Unification/SynthesizerVHDL/Synthesizer_tb.vhd
+C:/Users/crinklaw/Unification/Synthesizer_hw.tcl
+C:/Users/crinklaw/Unification/db/ip/niosII_system/niosII_system.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/StreamingTest.vhd
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_avalon_sc_fifo.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_avalon_st_clock_crosser.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_avalon_st_handshake_clock_crosser.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_avalon_st_pipeline_base.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_merlin_address_alignment.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_merlin_arbitrator.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_merlin_burst_adapter.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_merlin_burst_uncompressor.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_merlin_master_agent.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_merlin_master_translator.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_merlin_slave_agent.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_merlin_slave_translator.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_merlin_width_adapter.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_reset_controller.sdc
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_reset_controller.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_reset_synchronizer.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_up_character_lcd_communication.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/altera_up_character_lcd_initialization.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/frequencyDivider.vhd
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/midiOut.vhd
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_addr_router.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_addr_router_001.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_altpll_0.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_character_lcd_0.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_cmd_xbar_demux.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_cmd_xbar_demux_001.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_cmd_xbar_mux.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_fifo_0.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_green_leds.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_id_router.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_id_router_001.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_id_router_002.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_id_router_007.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_irq_mapper.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_jtag_uart_0.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_jtag_uart_0_input_mutex.dat
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_jtag_uart_0_input_stream.dat
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_jtag_uart_0_output_stream.dat
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_nios2_qsys_0.sdc
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_nios2_qsys_0.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_nios2_qsys_0_jtag_debug_module_sysclk.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_nios2_qsys_0_jtag_debug_module_tck.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_nios2_qsys_0_jtag_debug_module_wrapper.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_nios2_qsys_0_oci_test_bench.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_nios2_qsys_0_ociram_default_contents.mif
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_nios2_qsys_0_rf_ram_a.mif
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_nios2_qsys_0_rf_ram_b.mif
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_nios2_qsys_0_test_bench.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_onchip_memory2_0.hex
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_onchip_memory2_0.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_rsp_xbar_demux.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_rsp_xbar_demux_001.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_rsp_xbar_mux.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_rsp_xbar_mux_001.sv
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_sdram_0.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_sram_0.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_switch.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_sysid_qsys_0.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_timer_0.v
+C:/Users/crinklaw/Unification/db/ip/niosII_system/submodules/niosII_system_up_clocks_0.v
+C:/Users/crinklaw/Unification/frequencyDivider_hw.tcl
+C:/Users/crinklaw/Unification/incremental_db/compiled_partitions/niosII_microc_lab1.db_info
+C:/Users/crinklaw/Unification/midiOut_hw.tcl
+C:/Users/crinklaw/Unification/niosII_microc_lab1.qpf
+C:/Users/crinklaw/Unification/niosII_microc_lab1.qsf
+C:/Users/crinklaw/Unification/niosII_microc_lab1.vhd
+C:/Users/crinklaw/Unification/niosII_system.qsys
+c:/altera/12.1sp1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 78 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

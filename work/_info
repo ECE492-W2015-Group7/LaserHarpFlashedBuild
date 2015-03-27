@@ -1,0 +1,232 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\crinklaw\SynthesizerPrototypeV2
+Eaddressincrementor
+Z0 w1426119058
+Z1 DPx4 work 18 synthesizerpackage 0 22 W?<Mm:I:dA8O;C?59bm9V3
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\crinklaw\Unification
+Z6 8C:/Users/crinklaw/Unification/SynthesizerVHDL/AddressIncrementor.vhd
+Z7 FC:/Users/crinklaw/Unification/SynthesizerVHDL/AddressIncrementor.vhd
+l0
+L14
+VD4oU46f:QkTkAHZ0KX=J?0
+Z8 OV;C;10.1b;51
+32
+Z9 !s108 1426538979.263000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/crinklaw/Unification/SynthesizerVHDL/AddressIncrementor.vhd|
+Z11 !s107 C:/Users/crinklaw/Unification/SynthesizerVHDL/AddressIncrementor.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 BN5e7lVHB2`DVJ]P?inX:1
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 18 addressincrementor 0 22 D4oU46f:QkTkAHZ0KX=J?0
+l38
+L30
+V1WGegJQE87ZQc>kZ47TRA0
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 I2QL[G1AadLM6lNe03YBZ0
+!i10b 1
+Esinlut
+Z14 w1425332066
+R1
+R2
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R3
+R4
+R5
+Z16 8C:/Users/crinklaw/Unification/SynthesizerVHDL/SinLut.vhd
+Z17 FC:/Users/crinklaw/Unification/SynthesizerVHDL/SinLut.vhd
+l0
+L15
+Voe6]:Zi>_iUI7m3?40@TP2
+R8
+32
+Z18 !s108 1426538979.357000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/crinklaw/Unification/SynthesizerVHDL/SinLut.vhd|
+Z20 !s107 C:/Users/crinklaw/Unification/SynthesizerVHDL/SinLut.vhd|
+R12
+R13
+!s100 h>ORh]mNIWhj;O5mQC@IP3
+!i10b 1
+Artl
+R1
+R2
+R15
+R3
+R4
+DEx4 work 6 sinlut 0 22 oe6]:Zi>_iUI7m3?40@TP2
+l556
+L33
+V<1B_5SH1WCJ:hY>UEmmM@0
+R8
+32
+R18
+R19
+R20
+R12
+R13
+!s100 :GK256EZ`KEf[nhh]BF4?0
+!i10b 1
+Esynthesizer
+Z21 w1426524020
+R1
+Z22 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R3
+R4
+R5
+Z23 8C:/Users/crinklaw/Unification/SynthesizerVHDL/Synthesizer.vhd
+Z24 FC:/Users/crinklaw/Unification/SynthesizerVHDL/Synthesizer.vhd
+l0
+L13
+V5HC8::`HD1UUYhk9[ibE90
+R8
+32
+Z25 !s108 1426538978.951000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/crinklaw/Unification/SynthesizerVHDL/Synthesizer.vhd|
+Z27 !s107 C:/Users/crinklaw/Unification/SynthesizerVHDL/Synthesizer.vhd|
+R12
+R13
+!s100 ko8ba>7mdZmdA^^iHeERh0
+!i10b 1
+Artl
+R1
+R22
+R3
+R4
+DEx4 work 11 synthesizer 0 22 5HC8::`HD1UUYhk9[ibE90
+l110
+L37
+VEQ:=PC?YLdCjfhU<T<3Jh3
+R8
+32
+R25
+R26
+R27
+R12
+R13
+!s100 ;nf:YlLjBfA3X6l6E`@Y31
+!i10b 1
+Esynthesizer_tb
+Z28 w1426123129
+R1
+R2
+R15
+R3
+R4
+R5
+Z29 8C:/Users/crinklaw/Unification/SynthesizerVHDL/Synthesizer_tb.vhd
+Z30 FC:/Users/crinklaw/Unification/SynthesizerVHDL/Synthesizer_tb.vhd
+l0
+L11
+VEL_abgo`cTJ^2=O4cj4LW3
+!s100 ^C6i8zL2Sj7l@QBP3<67I2
+R8
+32
+!i10b 1
+Z31 !s108 1426538979.778000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/crinklaw/Unification/SynthesizerVHDL/Synthesizer_tb.vhd|
+Z33 !s107 C:/Users/crinklaw/Unification/SynthesizerVHDL/Synthesizer_tb.vhd|
+R12
+R13
+Abehavior
+R1
+R2
+R15
+R3
+R4
+Z34 DEx4 work 14 synthesizer_tb 0 22 EL_abgo`cTJ^2=O4cj4LW3
+l47
+L15
+VT:Y5m_2nEbmVCJ9M]_z=12
+!s100 PQRY_9jl9E2TjRMzm3J7z0
+R8
+32
+!i10b 1
+R31
+R32
+R33
+R12
+R13
+Psynthesizerpackage
+R3
+R4
+w1425773145
+R5
+8C:/Users/crinklaw/Unification/SynthesizerVHDL/SynthesizerPackage.vhd
+FC:/Users/crinklaw/Unification/SynthesizerVHDL/SynthesizerPackage.vhd
+l0
+L4
+VW?<Mm:I:dA8O;C?59bm9V3
+R8
+32
+R12
+R13
+!s100 9Wdi2[o<i=U8mO=7H?K9>0
+!i10b 1
+!s108 1426538979.544000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/crinklaw/Unification/SynthesizerVHDL/SynthesizerPackage.vhd|
+!s107 C:/Users/crinklaw/Unification/SynthesizerVHDL/SynthesizerPackage.vhd|
+Esynthesizertoplevel
+Z35 w1426525830
+R1
+R15
+DPx4 ieee 16 std_logic_signed 0 22 E>OLoMaBGQ?hbGgOoNXM^1
+R22
+Z36 DPx4 ieee 11 numeric_bit 0 22 RE9LDG5Y>ElDk`fY=9GM]2
+R2
+DPx4 ieee 16 std_logic_textio 0 22 ?Il0a149GV276[?[UMDWh2
+R3
+R4
+R5
+Z37 8C:/Users/crinklaw/Unification/SynthesizerVHDL/SynthesizerTopLevel.vhd
+Z38 FC:/Users/crinklaw/Unification/SynthesizerVHDL/SynthesizerTopLevel.vhd
+l0
+L16
+V]d10okcbIFlj6A]<JO0<81
+R8
+32
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/crinklaw/Unification/SynthesizerVHDL/SynthesizerTopLevel.vhd|
+R12
+R13
+!s100 bEiDD<Ihff0mG=U?obD7E2
+!i10b 1
+!s108 1426538979.607000
+Z40 !s107 C:/Users/crinklaw/Unification/SynthesizerVHDL/SynthesizerTopLevel.vhd|
+Artl
+R1
+R15
+R2
+Z41 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+Z42 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+R22
+R3
+R4
+DEx4 work 19 synthesizertoplevel 0 22 OUdb;gQ^<naS=@o8jC]k=1
+l147
+L106
+V=DnTk_A7]a3Y0@0bl7ZRE3
+R8
+32
+R39
+R12
+R13
+!s108 1426119483.660000
+R40
+!s100 PNW]EK5:d6^GdGbU?zbcm2
+!i10b 1

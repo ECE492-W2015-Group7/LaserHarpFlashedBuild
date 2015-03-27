@@ -1,0 +1,10 @@
+
+**** Build of configuration Nios II for project Tutorial3V2 ****
+
+make all 
+Info: Building ../Tutorial3V2_bsp/
+make --no-print-directory -C ../Tutorial3V2_bsp/
+[BSP build complete]
+[Tutorial3V2 build complete]
+
+**** Build Finished ****

@@ -1,0 +1,543 @@
+!SESSION 2015-03-26 15:33:28.564 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-03-26 15:34:27.641
+!MESSAGE Indexed 'LaserHarp_bsp' (97 sources, 96 headers) in 1.30 sec: 3,017 declarations; 11,429 references; 124 unresolved inclusions; 57 syntax errors; 252 unresolved names (1.71%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-03-26 15:34:28.640
+!MESSAGE Indexed 'LaserHarp' (1 sources, 13 headers) in 0.02 sec: 8 declarations; 23 references; 15 unresolved inclusions; 0 syntax errors; 6 unresolved names (16.22%)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 15:36:54.480
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427262935]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 15:36:56.164
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427262935 /cygdrive/c/Users/qsjiang/Documents/Github/SynthesizerAndDriver01/software/LaserHarp/LaserHarp.elf]
+!SESSION 2015-03-26 15:45:03.427 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-03-26 15:46:18.237
+!MESSAGE Indexed 'LaserHarpBuildFlashed_bsp' (97 sources, 74 headers) in 1.03 sec: 2,666 declarations; 11,059 references; 129 unresolved inclusions; 5 syntax errors; 283 unresolved names (2.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-03-26 15:46:19.345
+!MESSAGE Indexed 'LaserHarpBuildFlashed' (1 sources, 13 headers) in 0.02 sec: 8 declarations; 23 references; 15 unresolved inclusions; 0 syntax errors; 6 unresolved names (16.22%)
+
+!ENTRY org.eclipse.ltk.ui.refactoring 4 10000 2015-03-26 15:47:38.739
+!MESSAGE Internal Error
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Problems encountered while deleting resources.
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:793)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:344)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:132)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Could not delete 'C:\Users\qsjiang\Documents\Github\ECE492Research\LaserHarpBuildFlashed\software\LaserHarp_bsp\Makefile'.
+org.eclipse.core.runtime.CoreException: Problems encountered while deleting files.
+	at org.eclipse.core.internal.filesystem.local.LocalFile.delete(LocalFile.java:125)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFile(ResourceTree.java:304)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteProject(ResourceTree.java:384)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteProject(ResourceTree.java:837)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1945)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:780)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:344)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:132)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Could not delete: C:\Users\qsjiang\Documents\Github\ECE492Research\LaserHarpBuildFlashed\software\LaserHarp_bsp\Makefile.
+Contains: Could not delete 'C:\Users\qsjiang\Documents\Github\ECE492Research\LaserHarpBuildFlashed\software\LaserHarp_bsp'.
+!SUBENTRY 1 org.eclipse.core.resources 4 273 2015-03-26 15:47:38.739
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 2 org.eclipse.core.resources 4 273 2015-03-26 15:47:38.739
+!MESSAGE Could not delete 'C:\Users\qsjiang\Documents\Github\ECE492Research\LaserHarpBuildFlashed\software\LaserHarp_bsp\Makefile'.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Problems encountered while deleting files.
+	at org.eclipse.core.internal.filesystem.local.LocalFile.delete(LocalFile.java:125)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFile(ResourceTree.java:304)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteProject(ResourceTree.java:384)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteProject(ResourceTree.java:837)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1945)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:780)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:344)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:132)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Could not delete: C:\Users\qsjiang\Documents\Github\ECE492Research\LaserHarpBuildFlashed\software\LaserHarp_bsp\Makefile.
+!SUBENTRY 3 org.eclipse.core.filesystem 4 273 2015-03-26 15:47:38.739
+!MESSAGE Problems encountered while deleting files.
+!SUBENTRY 4 org.eclipse.core.filesystem 4 273 2015-03-26 15:47:38.739
+!MESSAGE Could not delete: C:\Users\qsjiang\Documents\Github\ECE492Research\LaserHarpBuildFlashed\software\LaserHarp_bsp\Makefile.
+!SUBENTRY 2 org.eclipse.core.resources 4 273 2015-03-26 15:47:38.739
+!MESSAGE Could not delete 'C:\Users\qsjiang\Documents\Github\ECE492Research\LaserHarpBuildFlashed\software\LaserHarp_bsp'.
+
+!ENTRY org.eclipse.core.resources 4 273 2015-03-26 15:47:38.739
+!MESSAGE Problems encountered while deleting resources.
+!SUBENTRY 1 org.eclipse.core.resources 4 273 2015-03-26 15:47:38.739
+!MESSAGE Could not delete 'C:\Users\qsjiang\Documents\Github\ECE492Research\LaserHarpBuildFlashed\software\LaserHarp_bsp\Makefile'.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Problems encountered while deleting files.
+	at org.eclipse.core.internal.filesystem.local.LocalFile.delete(LocalFile.java:125)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteFile(ResourceTree.java:304)
+	at org.eclipse.core.internal.resources.ResourceTree.internalDeleteProject(ResourceTree.java:384)
+	at org.eclipse.core.internal.resources.ResourceTree.standardDeleteProject(ResourceTree.java:837)
+	at org.eclipse.core.internal.resources.Resource.unprotectedDelete(Resource.java:1945)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:780)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:344)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:132)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: Could not delete: C:\Users\qsjiang\Documents\Github\ECE492Research\LaserHarpBuildFlashed\software\LaserHarp_bsp\Makefile.
+!SUBENTRY 2 org.eclipse.core.filesystem 4 273 2015-03-26 15:47:38.739
+!MESSAGE Problems encountered while deleting files.
+!SUBENTRY 3 org.eclipse.core.filesystem 4 273 2015-03-26 15:47:38.739
+!MESSAGE Could not delete: C:\Users\qsjiang\Documents\Github\ECE492Research\LaserHarpBuildFlashed\software\LaserHarp_bsp\Makefile.
+!SUBENTRY 1 org.eclipse.core.resources 4 273 2015-03-26 15:47:38.739
+!MESSAGE Could not delete 'C:\Users\qsjiang\Documents\Github\ECE492Research\LaserHarpBuildFlashed\software\LaserHarp_bsp'.
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 15:47:59.596
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427262935]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 15:48:01.266
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427262935 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/LaserHarpBuildFlashed/LaserHarpBuildFlashed.elf]
+!SESSION 2015-03-26 17:09:20.314 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-03-26 17:10:11.890
+!MESSAGE Indexed 'Tutorial3_bsp' (97 sources, 74 headers) in 1.01 sec: 2,666 declarations; 11,059 references; 129 unresolved inclusions; 5 syntax errors; 283 unresolved names (2.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-03-26 17:10:13.122
+!MESSAGE Indexed 'Tutorial3' (1 sources, 13 headers) in 0.03 sec: 8 declarations; 23 references; 15 unresolved inclusions; 0 syntax errors; 6 unresolved names (16.22%)
+
+!ENTRY com.altera.sbtgui.core 4 0 2015-03-26 17:25:03.652
+!MESSAGE Error executing 'nios2-bsp-generate-files --bsp-dir . --settings settings.bsp', unexpected return code 1.
+
+Error message:
+
+SEVERE: CPU module not set.
+SEVERE: CPU module not set.
+SEVERE: nios2-bsp-generate-files failed.
+
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-03-26 17:26:15.242
+!MESSAGE Indexed 'Tutorial3V2_bsp' (97 sources, 74 headers) in 0.83 sec: 2,666 declarations; 11,059 references; 129 unresolved inclusions; 5 syntax errors; 283 unresolved names (2.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-03-26 17:26:16.614
+!MESSAGE Indexed 'Tutorial3V2' (1 sources, 13 headers) in 0.02 sec: 8 declarations; 23 references; 15 unresolved inclusions; 0 syntax errors; 6 unresolved names (16.22%)
+!SESSION 2015-03-26 17:48:49.543 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 17:49:24.222
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 17:49:25.891
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 17:50:05.549
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 17:50:05.939
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 17:50:07.624
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 17:50:26.814
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 17:50:27.204
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 17:50:28.889
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 17:51:36.876
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 17:51:37.266
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 17:51:38.935
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 17:52:36.392
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 17:52:36.797
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 17:52:38.467
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+!SESSION 2015-03-26 18:00:41.988 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:03:23.282
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:03:24.951
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:05:09.468
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:05:09.874
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:05:11.528
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:08:50.741
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:08:51.149
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:08:52.802
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:09:21.820
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:09:22.225
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:09:23.879
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:10:16.738
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:10:17.175
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:10:19.065
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:12:53.653
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:12:54.058
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:12:55.743
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:13:46.658
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:13:47.064
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:13:48.748
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:17:49.384
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:17:49.789
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:17:51.461
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:20:15.043
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:20:15.448
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:20:17.102
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:20:42.575
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:20:42.965
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:20:44.636
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:21:19.171
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:21:19.577
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:21:21.277
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:21:27.039
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:21:27.429
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:21:29.082
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:22:14.864
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:22:15.270
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:22:16.926
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:22:41.130
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:22:41.535
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:22:43.708
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:22:56.519
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:22:56.924
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:22:58.609
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:25:21.741
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:25:22.179
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:25:23.849
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:26:32.195
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:26:32.585
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:26:34.239
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:27:22.153
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:27:22.559
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:27:24.214
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:28:14.599
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:28:14.989
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:28:16.658
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:28:32.301
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:28:32.691
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:28:34.345
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:28:49.498
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:28:49.904
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:28:51.589
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:29:04.424
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:29:04.830
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:29:06.548
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:29:19.983
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:29:20.391
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:29:22.107
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:30:22.009
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+!SESSION 2015-03-26 18:37:10.141 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-03-26 18:37:12.279
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:41:52.566
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:41:54.269
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:43:19.871
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:43:20.261
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:43:21.946
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:44:10.627
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:44:11.049
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:44:12.702
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:44:57.651
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:44:58.056
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:44:59.725
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:45:34.157
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:45:34.563
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:45:36.216
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:49:13.217
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:49:13.638
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:49:15.307
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:51:01.698
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:51:02.088
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:51:03.741
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:51:39.923
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:51:40.313
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:51:41.969
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:52:49.258
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:52:49.695
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 18:52:51.395
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+!SESSION 2015-03-26 18:57:35.322 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 19:04:45.378
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 19:04:47.048
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 19:05:13.080
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 19:05:13.488
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop --sidp=0x11090b0 --id=0x0 --timestamp=1427412040]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2015-03-26 19:05:15.204
+!MESSAGE Executing: [C:/altera/12.1sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go --sidp=0x11090b0 --id=0x0 --timestamp=1427412040 /cygdrive/c/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/software/Tutorial3V2/Tutorial3V2.elf]
