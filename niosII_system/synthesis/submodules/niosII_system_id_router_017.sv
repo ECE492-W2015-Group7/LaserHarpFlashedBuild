@@ -35,7 +35,7 @@ module niosII_system_id_router_017_default_decode
                DEFAULT_DESTID = 0 
    )
   (output [64 - 60 : 0] default_destination_id,
-   output [18-1 : 0] default_src_channel
+   output [22-1 : 0] default_src_channel
   );
 
   assign default_destination_id = 
@@ -44,7 +44,7 @@ module niosII_system_id_router_017_default_decode
     if (DEFAULT_CHANNEL == -1)
       assign default_src_channel = '0;
     else
-      assign default_src_channel = 18'b1 << DEFAULT_CHANNEL;
+      assign default_src_channel = 22'b1 << DEFAULT_CHANNEL;
   end
   endgenerate
 
@@ -73,7 +73,7 @@ module niosII_system_id_router_017
     // -------------------
     output                          src_valid,
     output reg [75-1    : 0] src_data,
-    output reg [18-1 : 0] src_channel,
+    output reg [22-1 : 0] src_channel,
     output                          src_startofpacket,
     output                          src_endofpacket,
     input                           src_ready
@@ -87,7 +87,7 @@ module niosII_system_id_router_017
     localparam PKT_DEST_ID_H = 64;
     localparam PKT_DEST_ID_L = 60;
     localparam ST_DATA_W = 75;
-    localparam ST_CHANNEL_W = 18;
+    localparam ST_CHANNEL_W = 22;
     localparam DECODER_TYPE = 1;
 
     localparam PKT_TRANS_WRITE = 36;
@@ -127,7 +127,7 @@ module niosII_system_id_router_017
     assign src_endofpacket   = sink_endofpacket;
 
     wire [PKT_DEST_ID_W-1:0] default_destid;
-    wire [18-1 : 0] default_src_channel;
+    wire [22-1 : 0] default_src_channel;
 
 
 
@@ -149,10 +149,10 @@ module niosII_system_id_router_017
 
 
         if (destid == 0 ) begin
-            src_channel = 18'b01;
+            src_channel = 22'b01;
         end
         if (destid == 1 ) begin
-            src_channel = 18'b10;
+            src_channel = 22'b10;
         end
 
 

@@ -1,0 +1,15 @@
+#include <stdio.h>
+/*
+ * MIDIGenerator.c
+ *
+ *  Created on: 2015-04-03
+ *      Author: qsjiang
+ */
+
+
+int getPitch(int scale,int laserIndex,){
+	int laserToPitchMappingTable[][]={{60,62,64,65,67,69,71,72},};	//C4 D4 E4 F4 G4 A4 B4 C5
+	return 1;
+}
+
+

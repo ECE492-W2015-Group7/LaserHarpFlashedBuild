@@ -4,7 +4,7 @@ JedecChain;
 	DefaultMfr(6E);
 
 	P ActionCode(Cfg)
-		Device PartName(EP2C35F672) Path("C:/Users/qsjiang/Documents/Github/ECE492Research/LaserHarpBuildFlashed/output_files/") File("niosII_microc_lab1.sof") MfrSpec(OpMask(1));
+		Device PartName(EP2C35F672) Path("C:/Users/qsjiang/Documents/Github/LaserHarpBuildFlashed/output_files/") File("niosII_microc_lab1.sof") MfrSpec(OpMask(1));
 
 ChainEnd;
 

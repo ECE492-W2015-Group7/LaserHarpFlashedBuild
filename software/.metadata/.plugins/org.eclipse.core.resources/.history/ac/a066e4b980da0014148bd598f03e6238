@@ -1,0 +1,15 @@
+#include <stdio.h>
+/*
+ * MIDIGenerator.c
+ *
+ *  Created on: 2015-04-03
+ *      Author: qsjiang
+ */
+
+
+int getPitch(){
+	printf("inside get pitch;");
+	return 1;
+}
+
+

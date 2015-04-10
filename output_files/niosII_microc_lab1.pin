@@ -554,7 +554,7 @@ GND                          : N19       : gnd    :                   :         
 GPIO_1[6]                    : N20       : bidir  : 3.3-V LVTTL       :         : 5         : Y              
 NC                           : N21       :        :                   :         :           :                
 VCCIO5                       : N22       : power  :                   : 3.3V    : 5         :                
-GND*                         : N23       :        :                   :         : 5         :                
+KEY[1]                       : N23       : input  : 3.3-V LVTTL       :         : 5         : Y              
 GND*                         : N24       :        :                   :         : 5         :                
 GND+                         : N25       :        :                   :         : 5         :                
 GND+                         : N26       :        :                   :         : 5         :                
@@ -580,8 +580,8 @@ GND                          : P19       : gnd    :                   :         
 MSEL0                        : P20       :        :                   :         : 6         :                
 MSEL1                        : P21       :        :                   :         : 6         :                
 VCCIO6                       : P22       : power  :                   : 3.3V    : 6         :                
-GND*                         : P23       :        :                   :         : 6         :                
-GND*                         : P24       :        :                   :         : 6         :                
+KEY[2]                       : P23       : input  : 3.3-V LVTTL       :         : 6         : Y              
+RST                          : P24       : input  : 3.3-V LVTTL       :         : 6         : N              
 GND+                         : P25       :        :                   :         : 6         :                
 GND+                         : P26       :        :                   :         : 6         :                
 GND                          : R1        : gnd    :                   :         :           :                
@@ -713,7 +713,7 @@ GND                          : W22       : gnd    :                   :         
 GND*                         : W23       :        :                   :         : 6         :                
 GND*                         : W24       :        :                   :         : 6         :                
 GND*                         : W25       :        :                   :         : 6         :                
-GND*                         : W26       :        :                   :         : 6         :                
+KEY[3]                       : W26       : input  : 3.3-V LVTTL       :         : 6         : Y              
 DRAM_ADDR[10]                : Y1        : output : 3.3-V LVTTL       :         : 1         : Y              
 NC                           : Y2        :        :                   :         :           :                
 DRAM_DQ[3]                   : Y3        : bidir  : 3.3-V LVTTL       :         : 1         : Y              

@@ -41,7 +41,11 @@
 			tristate_conduit_bridge_0_out_generic_tristate_controller_0_tcm_data_out         : inout std_logic_vector(7 downto 0)  := (others => 'X'); -- generic_tristate_controller_0_tcm_data_out
 			tristate_conduit_bridge_0_out_generic_tristate_controller_0_tcm_chipselect_n_out : out   std_logic_vector(0 downto 0);                     -- generic_tristate_controller_0_tcm_chipselect_n_out
 			tristate_conduit_bridge_0_out_generic_tristate_controller_0_tcm_write_n_out      : out   std_logic_vector(0 downto 0);                     -- generic_tristate_controller_0_tcm_write_n_out
-			tristate_conduit_bridge_0_out_generic_tristate_controller_0_tcm_address_out      : out   std_logic_vector(21 downto 0)                     -- generic_tristate_controller_0_tcm_address_out
+			tristate_conduit_bridge_0_out_generic_tristate_controller_0_tcm_address_out      : out   std_logic_vector(21 downto 0);                    -- generic_tristate_controller_0_tcm_address_out
+			button_3_external_connection_export                                              : in    std_logic                     := 'X';             -- export
+			button_2_external_connection_export                                              : in    std_logic                     := 'X';             -- export
+			button_1_external_connection_export                                              : in    std_logic                     := 'X';             -- export
+			button_0_external_connection_export                                              : in    std_logic                     := 'X'              -- export
 		);
 	end component niosII_system;
 

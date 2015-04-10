@@ -1,4 +1,4 @@
--- Nancy Minderman
+	-- Nancy Minderman
 -- nancy.minderman@ualberta.ca
 -- This file makes extensive use of Altera template structures.
 -- This file is the top-level file for lab 1 winter 2014 for version 12.1sp1 on Windows 7
@@ -27,7 +27,8 @@ library ieee;
 	port
 	(
 		-- Input ports and 50 MHz Clock
-		KEY		: in  std_logic_vector (0 downto 0);
+		RST	: in  std_logic;
+		KEY		: in  std_logic_vector (3 downto 0);
 		CLOCK_50	: in  std_logic;
 		CLOCK_27 : in  std_logic;
 		GPIO_1	: inout std_logic_vector (9 downto 0);
@@ -135,6 +136,10 @@ architecture structure of niosII_microc_lab1 is
 				up_clocks_0_audio_clk_clk					: out std_logic;
 				
             switch_external_connection_export		 : in    std_logic_vector (7 downto 0);
+				button_0_external_connection_export     : in  	std_logic;
+				button_1_external_connection_export     : in  	std_logic;
+				button_2_external_connection_export     : in  	std_logic;
+				button_3_external_connection_export     : in  	std_logic;
 				midiout_0_conduit_end_0_export			 : out 	std_logic;        
 				tristate_conduit_bridge_0_out_generic_tristate_controller_0_tcm_read_n_out				: out		std_logic_vector (0 downto 0);
 				tristate_conduit_bridge_0_out_generic_tristate_controller_0_tcm_data_out				: inout  std_logic_vector (7 downto 0)  := (others => 'X');   
@@ -167,7 +172,7 @@ begin
         port map (
             clk_clk                                 => CLOCK_50,    
 				clk27m_clk										 => CLOCK_27,
-            reset_reset_n                           => KEY(0),                          
+            reset_reset_n                           => RST,                          
             sdram_0_wire_addr                       => DRAM_ADDR,                      
             sdram_0_wire_ba                         => BA,                        
             sdram_0_wire_cas_n                      => DRAM_CAS_N,                      
@@ -202,8 +207,11 @@ begin
 				audio_0_external_interface_DACLRCK 	=> AUD_DACLRCK,
 				up_clocks_0_audio_clk_clk				=> AUD_XCK,
 				midiout_0_conduit_end_0_export		=> GPIO_1(9),
-				switch_external_connection_export	=> GPIO_1(7 downto 0) ,
-
+				switch_external_connection_export	=> GPIO_1(7 downto 0),
+				button_0_external_connection_export => KEY(0),
+				button_1_external_connection_export => KEY(1),
+				button_2_external_connection_export => KEY(2),
+				button_3_external_connection_export => KEY(3),
 				tristate_conduit_bridge_0_out_generic_tristate_controller_0_tcm_read_n_out				=> FL_OE_N,
 				tristate_conduit_bridge_0_out_generic_tristate_controller_0_tcm_data_out			  	=> FL_DQ,
 				tristate_conduit_bridge_0_out_generic_tristate_controller_0_tcm_chipselect_n_out		=> FL_CE_N,

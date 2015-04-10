@@ -1,0 +1,12 @@
+/*
+ *  Created on: 2015-03-07
+ *      Author: eorodrig
+ */
+
+#ifndef SYNTHESIZERDRIVER_H_
+#define SYNTHESIZERDRIVER_H_
+
+void turnOffVoice(int noteNum);
+void turnOnVoice(int noteNum);
+
+#endif /* SYNTHESIZERDRIVER_H_ */

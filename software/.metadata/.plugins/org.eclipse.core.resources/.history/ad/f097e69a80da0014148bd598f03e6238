@@ -1,0 +1,19 @@
+/*
+ * MIDIGenerator.h
+ *
+ *  Created on: 2015-04-03
+ *      Author: qsjiang
+ */
+
+#ifndef MIDIGENERATOR_H_
+#define MIDIGENERATOR_H_
+
+#define MAJOR_SCALE 1
+#define MINOR_SCALE 1
+#define BLUE_SCALE  1
+#define DORAN_SCALE  1 //Jim's favourite scale.
+
+
+int getPitch();
+
+#endif /* MIDIGENERATOR_H_ */

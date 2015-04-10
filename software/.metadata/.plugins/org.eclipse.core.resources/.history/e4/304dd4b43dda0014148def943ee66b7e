@@ -1,0 +1,2160 @@
+Archive member included because of file (symbol)
+
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o)
+                              obj/default/hello_ucosii.o (puts)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o) (strlen)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o) (__sfvwrite_r)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o) (_impure_ptr)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o) (_malloc_r)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memchr.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o) (memchr)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o) (memcpy)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memmove.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o) (memmove)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-reallocr.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o) (_realloc_r)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-sbrkr.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o) (_sbrk_r)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-wsetup.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o) (__swsetup_r)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fflush.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o) (_fflush_r)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-wsetup.o) (__sinit)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-freer.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o) (_free_r)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fwalk.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fflush.o) (_fwalk_reent)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-sbrkr.o) (errno)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-makebuf.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-wsetup.o) (__smakebuf_r)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memset.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o) (memset)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o) (__sclose)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-writer.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o) (_write_r)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-closer.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o) (_close_r)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fclose.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o) (fclose)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fstatr.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-makebuf.o) (_fstat_r)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-isattyr.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-makebuf.o) (_isatty_r)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-lseekr.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o) (_lseek_r)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-readr.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o) (_read_r)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-closer.o) (close)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o) (alt_fd_list)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_errno.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o) (alt_errno)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_fstat.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fstatr.o) (fstat)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_isatty.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-isattyr.o) (isatty)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_lseek.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-lseekr.o) (lseek)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o)
+                              ../LaserHarpBuildClean_bsp//obj/HAL/src/crt0.o (alt_main)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_read.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-readr.o) (read)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_release_fd.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o) (alt_release_fd)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sbrk.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-sbrkr.o) (sbrk)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_write.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-writer.o) (write)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o) (alt_envsem)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o) (__malloc_lock)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o) (OSInit)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_dbg.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o) (OSDebugInit)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_flag.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o) (OS_FlagInit)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_mem.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o) (OS_MemInit)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_q.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o) (OS_QInit)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_sem.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o) (OSSemCreate)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_task.o)
+                              obj/default/hello_ucosii.o (OSTaskCreateExt)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_time.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o) (OSTimeDly)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o) (alt_irq_init)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_fifo_util.o)
+                              obj/default/hello_ucosii.o (altera_avalon_fifo_init)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_read_fd)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_init)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_ioctl)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_read.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_read)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_write.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_write)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_timer_sc.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o) (alt_avalon_timer_sc_init)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio.o)
+                              obj/default/hello_ucosii.o (alt_up_audio_open_dev)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio_and_video_config.o)
+                              obj/default/hello_ucosii.o (alt_up_av_config_open_dev)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_character_lcd.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o) (alt_up_character_lcd_init)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_alarm_start.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o) (alt_alarm_start)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev_llist_insert.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o) (alt_dev_llist_insert)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_ctors.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o) (_do_ctors)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_dtors.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o) (_do_dtors)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_dev.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio.o) (alt_find_dev)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o) (alt_ic_isr_register)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic_isr_register.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic.o) (alt_iic_isr_register)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_io_redirect.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o) (alt_io_redirect)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic_isr_register.o) (alt_irq_entry)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic_isr_register.o) (alt_irq_handler)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_vars.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic.o) (alt_irq_active)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_open.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_io_redirect.o) (open)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_tick.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o) (_alt_tick_rate)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_nios2_qsys_irq.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o) (altera_nios2_qsys_irq_init)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_a.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o) (OSIntCtxSw)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_c.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_task.o) (OSTaskStkInit)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exception_entry.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o) (alt_exception)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_file.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_open.o) (alt_find_file)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_get_fd.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_open.o) (alt_get_fd)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o) (atexit)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o) (exit)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_dev.o) (memcmp)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a(lib2-divmod.o)
+                              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o) (__udivsi3)
+../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exit.o)
+                              c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+alt_irq             0x100             ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+OSLockNesting       0x1               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSRunning           0x1               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSIdleCtr           0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSPrioHighRdy       0x1               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+errno               0x4               c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+alt_heapsem         0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+OSFlagTbl           0x370             ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSPrioCur           0x1               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSTCBList           0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+alt_fd_list_lock    0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+OSMemTbl            0xc30             ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSTickStepState     0x1               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSTaskStatStk       0x800             ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSCtxSwCtr          0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSIdleCtrMax        0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSTCBFreeList       0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSCPUUsage          0x1               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSTaskCtr           0x1               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+laserInputTaskStack
+                    0x2000            obj/default/hello_ucosii.o
+OSMemFreeList       0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSQTbl              0x1e0             ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSTCBHighRdy        0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSQFreeList         0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSRdyGrp            0x1               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+_atexit0            0x190             c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+OSRdyTbl            0x3               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSEventFreeList     0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSIntNesting        0x1               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSTCBCur            0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSTime              0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSTaskIdleStk       0x800             ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+audioTaskStack      0x20000           obj/default/hello_ucosii.o
+OSEventTbl          0xb40             ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSTCBTbl            0x510             ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSFlagFreeList      0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSStatRdy           0x1               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+OSTCBPrioTbl        0x54              ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+alt_envsem          0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+OSIdleCtrRun        0x4               ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+sdram_0          0x00800000         0x00800000
+reset            0x01400000         0x00000020
+generic_tristate_controller_0 0x01400020         0x003fffe0
+sram_0           0x01880000         0x00080000
+onchip_memory2_0_BEFORE_EXCEPTION 0x01904000         0x00000020
+onchip_memory2_0 0x01904020         0x00003fe0
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ../LaserHarpBuildClean_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/hello_ucosii.o
+LOAD c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libstdc++.a
+LOAD c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libm.a
+LOAD c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a
+START GROUP
+LOAD c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a
+LOAD c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a
+LOAD ../LaserHarpBuildClean_bsp/\libucosii_bsp.a
+END GROUP
+LOAD c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a
+                0x00800000                __alt_mem_sdram_0 = 0x800000
+                0x01400000                __alt_mem_generic_tristate_controller_0 = 0x1400000
+                0x01880000                __alt_mem_sram_0 = 0x1880000
+                0x01904000                __alt_mem_onchip_memory2_0 = 0x1904000
+
+.entry          0x01400000        0x0
+ *(.entry)
+ .entry         0x01400000        0x0 ../LaserHarpBuildClean_bsp//obj/HAL/src/crt0.o
+                0x01400000                __reset
+
+.exceptions     0x01904020      0x19c
+                0x01904020                PROVIDE (__ram_exceptions_start, ABSOLUTE (.))
+                0x01904020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ .exceptions.entry.label
+                0x01904020        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o)
+                0x01904020                alt_irq_entry
+ .exceptions.entry.label
+                0x01904020        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exception_entry.o)
+                0x01904020                alt_exception
+ *(.exceptions.entry.user)
+ *(.exceptions.entry)
+ .exceptions.entry
+                0x01904020       0x54 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exception_entry.o)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ .exceptions.irqtest
+                0x01904074       0x10 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ .exceptions.irqhandler
+                0x01904084        0x4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ .exceptions.irqreturn
+                0x01904088        0x4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.label)
+ .exceptions.notirq.label
+                0x0190408c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ .exceptions.notirq
+                0x0190408c        0x8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exception_entry.o)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ .exceptions.unknown
+                0x01904094        0x4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.label)
+ .exceptions.exit.label
+                0x01904098        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o)
+ .exceptions.exit.label
+                0x01904098        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ .exceptions.exit
+                0x01904098       0x54 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exception_entry.o)
+ *(.exceptions)
+ .exceptions    0x019040ec       0xd0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+                0x019040ec                alt_irq_handler
+                0x019041bc                PROVIDE (__ram_exceptions_end, ABSOLUTE (.))
+                0x01904020                PROVIDE (__flash_exceptions_start, LOADADDR (.exceptions))
+
+.text           0x00800000     0xfe38
+                0x00800000                PROVIDE (stext, ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00800000       0x48 ../LaserHarpBuildClean_bsp//obj/HAL/src/crt0.o
+                0x00800000                _start
+ .text          0x00800048      0x2f4 obj/default/hello_ucosii.o
+                0x00800048                main
+                0x008000f4                audioTask
+                0x008002dc                laserInputTask
+ .text          0x0080033c       0xb4 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o)
+                0x0080033c                _puts_r
+                0x008003dc                puts
+ .text          0x008003f0       0x74 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+                0x008003f0                strlen
+ .text          0x00800464      0x49c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o)
+                0x00800464                __sfvwrite_r
+ .text          0x00800900        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .text          0x00800900      0x740 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+                0x00800900                _malloc_r
+ .text          0x00801040       0xe4 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memchr.o)
+                0x00801040                memchr
+ .text          0x00801124       0xa0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+                0x00801124                memcpy
+ .text          0x008011c4       0xe0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memmove.o)
+                0x008011c4                memmove
+ .text          0x008012a4      0x5f4 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-reallocr.o)
+                0x008012a4                _realloc_r
+ .text          0x00801898       0x70 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-sbrkr.o)
+                0x00801898                _sbrk_r
+ .text          0x00801908      0x13c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-wsetup.o)
+                0x00801908                __swsetup_r
+ .text          0x00801a44      0x230 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fflush.o)
+                0x00801a44                _fflush_r
+                0x00801c40                fflush
+ .text          0x00801c74      0x2c0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o)
+                0x00801ccc                __sfp_lock_acquire
+                0x00801cd0                __sfp_lock_release
+                0x00801cd4                __sinit_lock_acquire
+                0x00801cd8                __sinit_lock_release
+                0x00801cdc                __sinit
+                0x00801d90                __fp_unlock_all
+                0x00801da8                __fp_lock_all
+                0x00801dc0                _cleanup_r
+                0x00801dcc                _cleanup
+                0x00801ddc                __sfmoreglue
+                0x00801e44                __sfp
+ .text          0x00801f34      0x440 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-freer.o)
+                0x00801f34                _malloc_trim_r
+                0x00802060                _free_r
+ .text          0x00802374      0x180 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fwalk.o)
+                0x00802374                _fwalk_reent
+                0x0080243c                _fwalk
+ .text          0x008024f4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .text          0x008024f4      0x194 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-makebuf.o)
+                0x008024f4                __smakebuf_r
+ .text          0x00802688       0x98 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memset.o)
+                0x00802688                memset
+ .text          0x00802720      0x14c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o)
+                0x00802720                __sclose
+                0x00802728                __sseek
+                0x00802790                __swrite
+                0x0080280c                __sread
+ .text          0x0080286c       0x78 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-writer.o)
+                0x0080286c                _write_r
+ .text          0x008028e4       0x70 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-closer.o)
+                0x008028e4                _close_r
+ .text          0x00802954      0x124 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fclose.o)
+                0x00802954                _fclose_r
+                0x00802a64                fclose
+ .text          0x00802a78       0x74 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fstatr.o)
+                0x00802a78                _fstat_r
+ .text          0x00802aec       0x70 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-isattyr.o)
+                0x00802aec                _isatty_r
+ .text          0x00802b5c       0x78 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-lseekr.o)
+                0x00802b5c                _lseek_r
+ .text          0x00802bd4       0x78 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-readr.o)
+                0x00802bd4                _read_r
+ .text          0x00802c4c      0x15c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o)
+                0x00802c4c                close
+ .text          0x00802da8       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+ .text          0x00802dd4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_errno.o)
+ .text          0x00802dd4      0x134 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_fstat.o)
+                0x00802dd4                fstat
+ .text          0x00802f08      0x120 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_isatty.o)
+                0x00802f08                isatty
+ .text          0x00803028      0x150 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_lseek.o)
+                0x00803028                lseek
+ .text          0x00803178       0xc8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o)
+                0x00803178                alt_main
+ .text          0x00803240      0x180 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_read.o)
+                0x00803240                read
+ .text          0x008033c0       0x60 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_release_fd.o)
+                0x008033c0                alt_release_fd
+ .text          0x00803420       0xbc ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sbrk.o)
+                0x00803420                sbrk
+ .text          0x008034dc      0x180 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_write.o)
+                0x008034dc                write
+ .text          0x0080365c      0x108 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+                0x0080365c                __env_lock
+                0x00803708                __env_unlock
+ .text          0x00803764      0x1d8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+                0x00803764                __malloc_lock
+                0x0080386c                __malloc_unlock
+ .text          0x0080393c     0x2128 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+                0x0080393c                OSEventNameGet
+                0x00803a6c                OSEventNameSet
+                0x00803bb0                OSEventPendMulti
+                0x00804264                OSInit
+                0x008042b8                OSIntEnter
+                0x00804334                OSIntExit
+                0x00804434                OSSchedLock
+                0x008044c0                OSSchedUnlock
+                0x008045a4                OSStart
+                0x00804614                OSStatInit
+                0x008046c0                OSTimeTick
+                0x00804900                OSVersion
+                0x00804920                OS_Dummy
+                0x0080493c                OS_EventTaskRdy
+                0x00804ad0                OS_EventTaskWait
+                0x00804be0                OS_EventTaskWaitMulti
+                0x00804d34                OS_EventTaskRemove
+                0x00804dec                OS_EventTaskRemoveMulti
+                0x00804ef0                OS_EventWaitListInit
+                0x008052bc                OS_MemClr
+                0x00805310                OS_MemCopy
+                0x0080537c                OS_Sched
+                0x008054c0                OS_StrCopy
+                0x00805540                OS_StrLen
+                0x00805598                OS_TaskIdle
+                0x008055f4                OS_TaskStat
+                0x008056bc                OS_TaskStatStkChk
+                0x00805784                OS_TCBInit
+ .text          0x00805a64      0x18c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_dbg.o)
+                0x00805a64                OSDebugInit
+ .text          0x00805bf0     0x193c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_flag.o)
+                0x00805bf0                OSFlagAccept
+                0x00805f24                OSFlagCreate
+                0x00806060                OSFlagDel
+                0x00806308                OSFlagNameGet
+                0x0080644c                OSFlagNameSet
+                0x008065a0                OSFlagPend
+                0x00806be4                OSFlagPendGetFlagsRdy
+                0x00806c4c                OSFlagPost
+                0x00806ff4                OSFlagQuery
+                0x0080728c                OS_FlagInit
+                0x00807480                OS_FlagUnlink
+ .text          0x0080752c      0x808 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_mem.o)
+                0x0080752c                OSMemCreate
+                0x00807748                OSMemGet
+                0x0080784c                OSMemNameGet
+                0x00807958                OSMemNameSet
+                0x00807a78                OSMemPut
+                0x00807b68                OSMemQuery
+                0x00807c64                OS_MemInit
+ .text          0x00807d34     0x1334 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_q.o)
+                0x00807d34                OSQAccept
+                0x00807e88                OSQCreate
+                0x0080809c                OSQDel
+                0x0080839c                OSQFlush
+                0x00808464                OSQPend
+                0x00808784                OSQPendAbort
+                0x00808900                OSQPost
+                0x00808a80                OSQPostFront
+                0x00808c08                OSQPostOpt
+                0x00808e3c                OSQQuery
+                0x00808fbc                OS_QInit
+ .text          0x00809068      0xbc8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_sem.o)
+                0x00809068                OSSemAccept
+                0x00809128                OSSemCreate
+                0x0080923c                OSSemDel
+                0x008094dc                OSSemPend
+                0x00809758                OSSemPendAbort
+                0x008098d4                OSSemPost
+                0x008099fc                OSSemQuery
+                0x00809b2c                OSSemSet
+ .text          0x00809c30     0x1a40 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_task.o)
+                0x00809c30                OSTaskChangePrio
+                0x0080a1a4                OSTaskCreate
+                0x0080a378                OSTaskCreateExt
+                0x0080a578                OSTaskDel
+                0x0080a984                OSTaskDelReq
+                0x0080aaf4                OSTaskNameGet
+                0x0080acac                OSTaskNameSet
+                0x0080ae70                OSTaskResume
+                0x0080b088                OSTaskStkChk
+                0x0080b284                OSTaskSuspend
+                0x0080b4b0                OSTaskQuery
+                0x0080b5f4                OS_TaskStkClr
+ .text          0x0080b670      0x598 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_time.o)
+                0x0080b670                OSTimeDly
+                0x0080b7bc                OSTimeDlyHMSM
+                0x0080b930                OSTimeDlyResume
+                0x0080bb40                OSTimeGet
+                0x0080bba4                OSTimeSet
+ .text          0x0080bc08       0xf8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o)
+                0x0080bc08                alt_irq_init
+                0x0080bc3c                alt_sys_init
+ .text          0x0080bd00      0x560 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_fifo_util.o)
+                0x0080bd00                altera_avalon_fifo_init
+                0x0080bdbc                altera_avalon_fifo_read_status
+                0x0080bdf8                altera_avalon_fifo_read_ienable
+                0x0080be34                altera_avalon_fifo_read_almostfull
+                0x0080be60                altera_avalon_fifo_read_almostempty
+                0x0080be8c                altera_avalon_fifo_read_event
+                0x0080bec8                altera_avalon_fifo_read_level
+                0x0080bef0                altera_avalon_fifo_clear_event
+                0x0080bf58                altera_avalon_fifo_write_ienable
+                0x0080bfb8                altera_avalon_fifo_write_almostfull
+                0x0080c018                altera_avalon_fifo_write_almostempty
+                0x0080c078                altera_avalon_fifo_write_fifo
+                0x0080c0dc                altera_avalon_read_fifo
+                0x0080c14c                altera_avalon_fifo_read_fifo
+                0x0080c1a4                altera_avalon_fifo_write_other_info
+                0x0080c20c                altera_avalon_fifo_read_other_info
+                0x0080c238                altera_avalon_fifo_read_backpressure
+ .text          0x0080c260      0x148 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o)
+                0x0080c260                altera_avalon_jtag_uart_read_fd
+                0x0080c2b8                altera_avalon_jtag_uart_write_fd
+                0x0080c310                altera_avalon_jtag_uart_close_fd
+                0x0080c358                altera_avalon_jtag_uart_ioctl_fd
+ .text          0x0080c3a8      0x584 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o)
+                0x0080c3a8                altera_avalon_jtag_uart_init
+                0x0080c8b8                altera_avalon_jtag_uart_close
+ .text          0x0080c92c       0xf4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+                0x0080c92c                altera_avalon_jtag_uart_ioctl
+ .text          0x0080ca20      0x2c0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_read.o)
+                0x0080ca20                altera_avalon_jtag_uart_read
+ .text          0x0080cce0      0x2dc ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x0080cce0                altera_avalon_jtag_uart_write
+ .text          0x0080cfbc      0x100 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_timer_sc.o)
+                0x0080d02c                alt_avalon_timer_sc_init
+ .text          0x0080d0bc      0x80c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio.o)
+                0x0080d0bc                alt_up_audio_open_dev
+                0x0080d0fc                alt_up_audio_enable_read_interrupt
+                0x0080d148                alt_up_audio_disable_read_interrupt
+                0x0080d198                alt_up_audio_enable_write_interrupt
+                0x0080d1e4                alt_up_audio_disable_write_interrupt
+                0x0080d234                alt_up_audio_read_interrupt_pending
+                0x0080d270                alt_up_audio_write_interrupt_pending
+                0x0080d2ac                alt_up_audio_reset_audio_core
+                0x0080d334                alt_up_audio_read_fifo_avail
+                0x0080d3a4                alt_up_audio_record_r
+                0x0080d414                alt_up_audio_record_l
+                0x0080d484                alt_up_audio_write_fifo_space
+                0x0080d4f8                alt_up_audio_play_r
+                0x0080d568                alt_up_audio_play_l
+                0x0080d5d8                alt_up_audio_read_fifo
+                0x0080d6dc                alt_up_audio_write_fifo
+                0x0080d808                alt_up_audio_read_fifo_head
+                0x0080d868                alt_up_audio_write_fifo_head
+ .text          0x0080d8c8      0x788 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio_and_video_config.o)
+                0x0080d8c8                alt_up_av_config_open_dev
+                0x0080d92c                alt_up_av_config_write_data
+                0x0080d990                alt_up_av_config_read_data
+                0x0080da1c                alt_up_av_config_reset
+                0x0080da54                alt_up_av_config_enable_interrupt
+                0x0080da8c                alt_up_av_config_disable_interrupt
+                0x0080dabc                alt_up_av_config_read_acknowledge
+                0x0080db24                alt_up_av_config_read_ready
+                0x0080db5c                alt_up_av_config_write_audio_cfg_register
+                0x0080dc08                alt_up_av_config_read_video_cfg_register
+                0x0080dd00                alt_up_av_config_write_video_cfg_register
+                0x0080ddf8                alt_up_av_config_read_DC2_cfg_register
+                0x0080de5c                alt_up_av_config_write_DC2_cfg_register
+                0x0080dec0                alt_up_av_config_read_D5M_cfg_register
+                0x0080df24                alt_up_av_config_write_D5M_cfg_register
+                0x0080df88                alt_up_av_config_read_LTM_cfg_register
+                0x0080dfec                alt_up_av_config_write_LTM_cfg_register
+ .text          0x0080e050      0x530 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_character_lcd.o)
+                0x0080e050                get_DDRAM_addr
+                0x0080e0cc                alt_up_character_lcd_send_cmd
+                0x0080e100                alt_up_character_lcd_init
+                0x0080e134                alt_up_character_lcd_open_dev
+                0x0080e174                alt_up_character_lcd_write
+                0x0080e1ec                alt_up_character_lcd_string
+                0x0080e264                alt_up_character_lcd_write_fd
+                0x0080e2b0                alt_up_character_lcd_set_cursor_pos
+                0x0080e328                alt_up_character_lcd_shift_cursor
+                0x0080e3d8                alt_up_character_lcd_shift_display
+                0x0080e488                alt_up_character_lcd_erase_pos
+                0x0080e518                alt_up_character_lcd_cursor_off
+                0x0080e54c                alt_up_character_lcd_cursor_blink_on
+ .text          0x0080e580      0x154 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_alarm_start.o)
+                0x0080e580                alt_alarm_start
+ .text          0x0080e6d4      0x114 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev_llist_insert.o)
+                0x0080e6d4                alt_dev_llist_insert
+ .text          0x0080e7e8       0x64 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_ctors.o)
+                0x0080e7e8                _do_ctors
+ .text          0x0080e84c       0x64 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_dtors.o)
+                0x0080e84c                _do_dtors
+ .text          0x0080e8b0       0x94 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_dev.o)
+                0x0080e8b0                alt_find_dev
+ .text          0x0080e944      0x1d4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic.o)
+                0x0080e944                alt_ic_isr_register
+                0x0080e994                alt_ic_irq_enable
+                0x0080ea30                alt_ic_irq_disable
+                0x0080ead0                alt_ic_irq_enabled
+ .text          0x0080eb18       0xf8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic_isr_register.o)
+                0x0080eb18                alt_iic_isr_register
+ .text          0x0080ec10      0x13c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_io_redirect.o)
+                0x0080ecd4                alt_io_redirect
+ .text          0x0080ed4c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o)
+ .text          0x0080ed4c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+ .text          0x0080ed4c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_vars.o)
+ .text          0x0080ed4c      0x2c4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_open.o)
+                0x0080ee28                open
+ .text          0x0080f010      0x1a8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_tick.o)
+                0x0080f010                alt_alarm_stop
+                0x0080f0a8                alt_tick
+ .text          0x0080f1b8       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_nios2_qsys_irq.o)
+                0x0080f1b8                altera_nios2_qsys_irq_init
+ .text          0x0080f1d8       0xd0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_a.o)
+                0x0080f1d8                OSCtxSw
+                0x0080f1d8                OSIntCtxSw
+                0x0080f264                OSStartHighRdy
+                0x0080f284                OSStartTsk
+ .text          0x0080f2a8      0x418 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_c.o)
+                0x0080f2a8                OSTaskStkInit
+                0x0080f5b8                OSTaskCreateHook
+                0x0080f5d8                OSTaskDelHook
+                0x0080f5f8                OSTaskSwHook
+                0x0080f614                OSTaskStatHook
+                0x0080f630                OSTimeTickHook
+                0x0080f64c                OSInitHookBegin
+                0x0080f668                OSInitHookEnd
+                0x0080f684                OSTaskIdleHook
+                0x0080f6a0                OSTCBInitHook
+ .text          0x0080f6c0        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exception_entry.o)
+ .text          0x0080f6c0      0x120 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_file.o)
+                0x0080f6c0                alt_find_file
+ .text          0x0080f7e0       0xf4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_get_fd.o)
+                0x0080f7e0                alt_get_fd
+ .text          0x0080f8d4       0x14 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+                0x0080f8d4                atexit
+ .text          0x0080f8e8       0x38 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+                0x0080f8e8                exit
+ .text          0x0080f920       0x74 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+                0x0080f920                memcmp
+ .text          0x0080f994      0x134 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+                0x0080f994                __register_exitproc
+ .text          0x0080fac8      0x1b4 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+                0x0080facc                __call_exitprocs
+ .text          0x0080fc7c      0x14c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a(lib2-divmod.o)
+                0x0080fcf8                __divsi3
+                0x0080fd58                __modsi3
+                0x0080fdb8                __udivsi3
+                0x0080fdc0                __umodsi3
+ .text          0x0080fdc8       0x6c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exit.o)
+                0x0080fe08                _exit
+ *(.gnu.warning.*)
+ *(.fini)
+                0x0080fe34                PROVIDE (__etext, ABSOLUTE (.))
+                0x0080fe34                PROVIDE (_etext, ABSOLUTE (.))
+                0x0080fe34                PROVIDE (etext, ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x0080fe34                . = ALIGN (0x4)
+                0x0080fe34                PROVIDE (__preinit_array_start, ABSOLUTE (.))
+ *(.preinit_array)
+                0x0080fe34                PROVIDE (__preinit_array_end, ABSOLUTE (.))
+                0x0080fe34                PROVIDE (__init_array_start, ABSOLUTE (.))
+ *(.init_array)
+                0x0080fe34                PROVIDE (__init_array_end, ABSOLUTE (.))
+                0x0080fe34                PROVIDE (__fini_array_start, ABSOLUTE (.))
+ *(.fini_array)
+                0x0080fe34                PROVIDE (__fini_array_end, ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table)
+ *(.dynamic)
+                0x0080fe34                PROVIDE (__CTOR_LIST__, ABSOLUTE (.))
+ *(.ctors)
+ *(SORT(.ctors.*))
+ .ctors.65535   0x0080fe34        0x4 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+                0x0080fe38                PROVIDE (__CTOR_END__, ABSOLUTE (.))
+                0x0080fe38                PROVIDE (__DTOR_LIST__, ABSOLUTE (.))
+ *(.dtors)
+ *(SORT(.dtors.*))
+                0x0080fe38                PROVIDE (__DTOR_END__, ABSOLUTE (.))
+ *(.jcr)
+                0x0080fe38                . = ALIGN (0x4)
+
+.rodata         0x0080fe38      0x25c
+                0x0080fe38                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
+                0x0080fe38                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0080fe38       0xb4 obj/default/hello_ucosii.o
+ .rodata.str1.4
+                0x0080feec        0x2 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x0080feee        0x2 00
+ .rodata.str1.4
+                0x0080fef0        0x4 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .rodata        0x0080fef4        0xc ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+ .rodata        0x0080ff00       0x14 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o)
+ .rodata        0x0080ff14      0x120 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+                0x0080ff14                OSUnMapTbl
+ .rodata        0x00810034       0x5c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o)
+ .rodata        0x00810090        0x4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_c.o)
+ *(.rodata1)
+                0x00810094                . = ALIGN (0x4)
+                0x00810094                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
+                0x0080fe38                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
+
+.rwdata         0x00810094     0x1b5c
+                0x00810094                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
+                0x00810094                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00810094        0x0 ../LaserHarpBuildClean_bsp//obj/HAL/src/crt0.o
+ .data          0x00810094        0x0 obj/default/hello_ucosii.o
+ .data          0x00810094        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o)
+ .data          0x00810094        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .data          0x00810094        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o)
+ .data          0x00810094      0x400 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .data          0x00810494      0x408 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+                0x00810494                __malloc_av_
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memchr.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memmove.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-reallocr.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-sbrkr.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-wsetup.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fflush.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-freer.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fwalk.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-makebuf.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memset.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-writer.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-closer.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fclose.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fstatr.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-isattyr.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-lseekr.o)
+ .data          0x0081089c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-readr.o)
+ .data          0x0081089c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o)
+ .data          0x0081089c      0x1a8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+                0x0081089c                alt_dev_null
+                0x008108c4                alt_fd_list
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_errno.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_fstat.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_isatty.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_lseek.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_read.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_release_fd.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sbrk.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_write.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_dbg.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_flag.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_mem.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_q.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_sem.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_task.o)
+ .data          0x00810a44        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_time.o)
+ .data          0x00810a44     0x10f8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_fifo_util.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_read.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_timer_sc.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio_and_video_config.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_character_lcd.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_alarm_start.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev_llist_insert.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_ctors.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_dtors.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_dev.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic_isr_register.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_io_redirect.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_vars.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_open.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_tick.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_nios2_qsys_irq.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_a.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_c.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exception_entry.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_file.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_get_fd.o)
+ .data          0x00811b3c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .data          0x00811b3c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .data          0x00811b3c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .data          0x00811b3c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .data          0x00811b3c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .data          0x00811b3c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a(lib2-divmod.o)
+ .data          0x00811b3c        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exit.o)
+                0x00819b3c                _gp = ABSOLUTE ((. + 0x8000))
+                0x00819b3c                PROVIDE (gp, _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x00811b3c        0x8 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+                0x00811b3c                _impure_ptr
+                0x00811b40                _global_impure_ptr
+ .sdata         0x00811b44        0x8 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+                0x00811b44                __malloc_trim_threshold
+                0x00811b48                __malloc_sbrk_base
+ .sdata         0x00811b4c       0x14 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+                0x00811b4c                alt_fs_list
+                0x00811b54                alt_dev_list
+                0x00811b5c                alt_max_fd
+ .sdata         0x00811b60        0x4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_errno.o)
+                0x00811b60                alt_errno
+ .sdata         0x00811b64        0x4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sbrk.o)
+ .sdata         0x00811b68        0x4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+ .sdata         0x00811b6c        0x4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+ .sdata         0x00811b70       0x74 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_dbg.o)
+                0x00811b70                OSDebugEn
+                0x00811b74                OSEndiannessTest
+                0x00811b78                OSEventEn
+                0x00811b7a                OSEventMax
+                0x00811b7c                OSEventNameSize
+                0x00811b7e                OSEventSize
+                0x00811b80                OSEventTblSize
+                0x00811b82                OSEventMultiEn
+                0x00811b84                OSFlagEn
+                0x00811b86                OSFlagGrpSize
+                0x00811b88                OSFlagNodeSize
+                0x00811b8a                OSFlagWidth
+                0x00811b8c                OSFlagMax
+                0x00811b8e                OSFlagNameSize
+                0x00811b90                OSLowestPrio
+                0x00811b92                OSMboxEn
+                0x00811b94                OSMemEn
+                0x00811b96                OSMemMax
+                0x00811b98                OSMemNameSize
+                0x00811b9a                OSMemSize
+                0x00811b9c                OSMemTblSize
+                0x00811b9e                OSMutexEn
+                0x00811ba0                OSPtrSize
+                0x00811ba2                OSQEn
+                0x00811ba4                OSQMax
+                0x00811ba6                OSQSize
+                0x00811ba8                OSRdyTblSize
+                0x00811baa                OSSemEn
+                0x00811bac                OSStkWidth
+                0x00811bae                OSTaskCreateEn
+                0x00811bb0                OSTaskCreateExtEn
+                0x00811bb2                OSTaskDelEn
+                0x00811bb4                OSTaskIdleStkSize
+                0x00811bb6                OSTaskProfileEn
+                0x00811bb8                OSTaskMax
+                0x00811bba                OSTaskNameSize
+                0x00811bbc                OSTaskStatEn
+                0x00811bbe                OSTaskStatStkSize
+                0x00811bc0                OSTaskStatStkChkEn
+                0x00811bc2                OSTaskSwHookEn
+                0x00811bc4                OSTCBPrioTblMax
+                0x00811bc6                OSTCBSize
+                0x00811bc8                OSTicksPerSec
+                0x00811bca                OSTimeTickHookEn
+                0x00811bcc                OSVersionNbr
+                0x00811bce                OSTmrEn
+                0x00811bd0                OSTmrCfgMax
+                0x00811bd2                OSTmrCfgNameSize
+                0x00811bd4                OSTmrCfgWheelSize
+                0x00811bd6                OSTmrCfgTicksPerSec
+                0x00811bd8                OSTmrSize
+                0x00811bda                OSTmrTblSize
+                0x00811bdc                OSTmrWheelSize
+                0x00811bde                OSTmrWheelTblSize
+                0x00811be0                OSDataSize
+ .sdata         0x00811be4        0x4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_vars.o)
+                0x00811be4                alt_priority_mask
+ .sdata         0x00811be8        0x8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_tick.o)
+                0x00811be8                alt_alarm_list
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x00811bf0                . = ALIGN (0x4)
+                0x00811bf0                _edata = ABSOLUTE (.)
+                0x00811bf0                PROVIDE (edata, ABSOLUTE (.))
+                0x00811bf0                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
+                0x00810094                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
+
+.bss            0x00811bf0    0x25568
+                0x00811bf0                __bss_start = ABSOLUTE (.)
+                0x00811bf0                PROVIDE (__sbss_start, ABSOLUTE (.))
+                0x00811bf0                PROVIDE (___sbss_start, ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x00811bf0        0xc c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+                0x00811bf0                __malloc_top_pad
+                0x00811bf4                __malloc_max_sbrked_mem
+                0x00811bf8                __malloc_max_total_mem
+ .sbss          0x00811bfc        0x4 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+                0x00811bfc                errno
+ .sbss          0x00811c00        0x4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+                0x00811c00                alt_fd_list_lock
+ .sbss          0x00811c04        0xc ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o)
+                0x00811c04                alt_argc
+                0x00811c08                alt_argv
+                0x00811c0c                alt_envp
+ .sbss          0x00811c10        0x8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+                0x00811c14                alt_envsem
+ .sbss          0x00811c18        0x8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+                0x00811c1c                alt_heapsem
+ .sbss          0x00811c20       0x50 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+                0x00811c20                OSLockNesting
+                0x00811c21                OSRunning
+                0x00811c24                OSIdleCtr
+                0x00811c28                OSPrioHighRdy
+                0x00811c29                OSPrioCur
+                0x00811c2c                OSTCBList
+                0x00811c30                OSTickStepState
+                0x00811c34                OSCtxSwCtr
+                0x00811c38                OSIdleCtrMax
+                0x00811c3c                OSTCBFreeList
+                0x00811c40                OSCPUUsage
+                0x00811c41                OSTaskCtr
+                0x00811c44                OSMemFreeList
+                0x00811c48                OSTCBHighRdy
+                0x00811c4c                OSQFreeList
+                0x00811c50                OSRdyGrp
+                0x00811c51                OSRdyTbl
+                0x00811c54                OSEventFreeList
+                0x00811c58                OSIntNesting
+                0x00811c5c                OSTCBCur
+                0x00811c60                OSTime
+                0x00811c64                OSFlagFreeList
+                0x00811c68                OSStatRdy
+                0x00811c6c                OSIdleCtrRun
+ .sbss          0x00811c70        0x4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_vars.o)
+                0x00811c70                alt_irq_active
+ .sbss          0x00811c74        0x8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_tick.o)
+                0x00811c74                _alt_tick_rate
+                0x00811c78                _alt_nticks
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                0x00811c7c                PROVIDE (__sbss_end, ABSOLUTE (.))
+                0x00811c7c                PROVIDE (___sbss_end, ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00811c7c        0x0 ../LaserHarpBuildClean_bsp//obj/HAL/src/crt0.o
+ .bss           0x00811c7c        0x0 obj/default/hello_ucosii.o
+ .bss           0x00811c7c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o)
+ .bss           0x00811c7c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .bss           0x00811c7c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o)
+ .bss           0x00811c7c        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .bss           0x00811c7c       0x28 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+                0x00811c7c                __malloc_current_mallinfo
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memchr.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memmove.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-reallocr.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-sbrkr.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-wsetup.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fflush.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-freer.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fwalk.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-makebuf.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memset.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-writer.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-closer.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fclose.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fstatr.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-isattyr.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-lseekr.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-readr.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_errno.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_fstat.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_isatty.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_lseek.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_read.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_release_fd.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sbrk.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_write.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_dbg.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_flag.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_mem.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_q.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_sem.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_task.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_time.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_fifo_util.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_read.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_timer_sc.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio_and_video_config.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_character_lcd.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_alarm_start.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_ctors.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_dtors.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_dev.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic_isr_register.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_io_redirect.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_vars.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_open.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_tick.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_nios2_qsys_irq.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_a.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_c.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exception_entry.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_file.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_get_fd.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00811ca4        0x0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a(lib2-divmod.o)
+ .bss           0x00811ca4        0x0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exit.o)
+ *(COMMON)
+ COMMON         0x00811ca4    0x22000 obj/default/hello_ucosii.o
+                0x00811ca4                laserInputTaskStack
+                0x00813ca4                audioTaskStack
+ COMMON         0x00833ca4     0x3224 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+                0x00833ca4                OSFlagTbl
+                0x00834014                OSMemTbl
+                0x00834c44                OSTaskStatStk
+                0x00835444                OSQTbl
+                0x00835624                OSTaskIdleStk
+                0x00835e24                OSEventTbl
+                0x00836964                OSTCBTbl
+                0x00836e74                OSTCBPrioTbl
+ COMMON         0x00836ec8      0x100 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+                0x00836ec8                alt_irq
+ COMMON         0x00836fc8      0x190 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+                0x00836fc8                _atexit0
+                0x00837158                . = ALIGN (0x4)
+                0x00837158                __bss_end = ABSOLUTE (.)
+
+.sdram_0        0x00837158        0x0
+                0x00837158                PROVIDE (_alt_partition_sdram_0_start, ABSOLUTE (.))
+ *(.sdram_0. sdram_0.*)
+                0x00837158                . = ALIGN (0x4)
+                0x00837158                PROVIDE (_alt_partition_sdram_0_end, ABSOLUTE (.))
+                0x00837158                _end = ABSOLUTE (.)
+                0x00837158                end = ABSOLUTE (.)
+                0x00837158                __alt_stack_base = ABSOLUTE (.)
+                0x00837158                PROVIDE (_alt_partition_sdram_0_load_addr, LOADADDR (.sdram_0))
+
+.generic_tristate_controller_0
+                0x01400020        0x0
+                0x01400020                PROVIDE (_alt_partition_generic_tristate_controller_0_start, ABSOLUTE (.))
+ *(.generic_tristate_controller_0. generic_tristate_controller_0.*)
+                0x01400020                . = ALIGN (0x4)
+                0x01400020                PROVIDE (_alt_partition_generic_tristate_controller_0_end, ABSOLUTE (.))
+                0x01400020                PROVIDE (_alt_partition_generic_tristate_controller_0_load_addr, LOADADDR (.generic_tristate_controller_0))
+
+.sram_0         0x01880000        0x0
+                0x01880000                PROVIDE (_alt_partition_sram_0_start, ABSOLUTE (.))
+ *(.sram_0. sram_0.*)
+                0x01880000                . = ALIGN (0x4)
+                0x01880000                PROVIDE (_alt_partition_sram_0_end, ABSOLUTE (.))
+                0x01880000                PROVIDE (_alt_partition_sram_0_load_addr, LOADADDR (.sram_0))
+
+.onchip_memory2_0
+                0x019041bc        0x0
+                0x019041bc                PROVIDE (_alt_partition_onchip_memory2_0_start, ABSOLUTE (.))
+ *(.onchip_memory2_0. onchip_memory2_0.*)
+                0x019041bc                . = ALIGN (0x4)
+                0x019041bc                PROVIDE (_alt_partition_onchip_memory2_0_end, ABSOLUTE (.))
+                0x019041bc                PROVIDE (_alt_partition_onchip_memory2_0_load_addr, LOADADDR (.onchip_memory2_0))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x26
+ *(.comment)
+ .comment       0x00000000       0x26 obj/default/hello_ucosii.o
+                                 0x27 (size before relaxing)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memchr.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memmove.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-reallocr.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-sbrkr.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-wsetup.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fflush.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-freer.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fwalk.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-makebuf.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memset.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-writer.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-closer.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fclose.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fstatr.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-isattyr.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-lseekr.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-readr.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_errno.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_fstat.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_isatty.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_lseek.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_read.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_release_fd.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sbrk.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_write.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_dbg.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_flag.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_mem.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_q.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_sem.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_task.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_time.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_fifo_util.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_read.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_timer_sc.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio_and_video_config.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_character_lcd.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_alarm_start.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_ctors.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_dtors.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_dev.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic_isr_register.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_io_redirect.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_vars.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_open.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_tick.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_nios2_qsys_irq.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_c.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_file.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_get_fd.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .comment       0x00000000       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a(lib2-divmod.o)
+ .comment       0x00000000       0x27 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exit.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0xa70
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 ../LaserHarpBuildClean_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x00000020       0x20 obj/default/hello_ucosii.o
+ .debug_aranges
+                0x00000040       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o)
+ .debug_aranges
+                0x00000060       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x00000080       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o)
+ .debug_aranges
+                0x000000a0       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x000000c0       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memchr.o)
+ .debug_aranges
+                0x000000e0       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x00000100       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x00000120       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-reallocr.o)
+ .debug_aranges
+                0x00000140       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x00000160       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-wsetup.o)
+ .debug_aranges
+                0x00000180       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fflush.o)
+ .debug_aranges
+                0x000001a0       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o)
+ .debug_aranges
+                0x000001c0       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-freer.o)
+ .debug_aranges
+                0x000001e0       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x00000200       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-makebuf.o)
+ .debug_aranges
+                0x00000220       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x00000240       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o)
+ .debug_aranges
+                0x00000260       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-writer.o)
+ .debug_aranges
+                0x00000280       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-closer.o)
+ .debug_aranges
+                0x000002a0       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fclose.o)
+ .debug_aranges
+                0x000002c0       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fstatr.o)
+ .debug_aranges
+                0x000002e0       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-isattyr.o)
+ .debug_aranges
+                0x00000300       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-lseekr.o)
+ .debug_aranges
+                0x00000320       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-readr.o)
+ .debug_aranges
+                0x00000340       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o)
+ .debug_aranges
+                0x00000360       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+ .debug_aranges
+                0x00000380       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_fstat.o)
+ .debug_aranges
+                0x000003a0       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_isatty.o)
+ .debug_aranges
+                0x000003c0       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_lseek.o)
+ .debug_aranges
+                0x000003e0       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o)
+ .debug_aranges
+                0x00000400       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_read.o)
+ .debug_aranges
+                0x00000420       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_release_fd.o)
+ .debug_aranges
+                0x00000440       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sbrk.o)
+ .debug_aranges
+                0x00000460       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_write.o)
+ .debug_aranges
+                0x00000480       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+ .debug_aranges
+                0x000004a0       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+ .debug_aranges
+                0x000004c0       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+ .debug_aranges
+                0x000004e0       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_dbg.o)
+ .debug_aranges
+                0x00000500       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_flag.o)
+ .debug_aranges
+                0x00000520       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_mem.o)
+ .debug_aranges
+                0x00000540       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_q.o)
+ .debug_aranges
+                0x00000560       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_sem.o)
+ .debug_aranges
+                0x00000580       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_task.o)
+ .debug_aranges
+                0x000005a0       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_time.o)
+ .debug_aranges
+                0x000005c0       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x000005e0       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_fifo_util.o)
+ .debug_aranges
+                0x00000600       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_aranges
+                0x00000620       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_aranges
+                0x00000640       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_aranges
+                0x00000660       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_aranges
+                0x00000680       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x000006a0       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_timer_sc.o)
+ .debug_aranges
+                0x000006c0       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio.o)
+ .debug_aranges
+                0x000006e0       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio_and_video_config.o)
+ .debug_aranges
+                0x00000700       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_character_lcd.o)
+ .debug_aranges
+                0x00000720       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_alarm_start.o)
+ .debug_aranges
+                0x00000740       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x00000760       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_ctors.o)
+ .debug_aranges
+                0x00000780       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_dtors.o)
+ .debug_aranges
+                0x000007a0       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x000007c0       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic.o)
+ .debug_aranges
+                0x000007e0       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic_isr_register.o)
+ .debug_aranges
+                0x00000800       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_io_redirect.o)
+ .debug_aranges
+                0x00000820       0x30 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o)
+ .debug_aranges
+                0x00000850       0x28 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+ .debug_aranges
+                0x00000878       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_open.o)
+ .debug_aranges
+                0x00000898       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_tick.o)
+ .debug_aranges
+                0x000008b8       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_aranges
+                0x000008d8       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_a.o)
+ .debug_aranges
+                0x000008f8       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_c.o)
+ .debug_aranges
+                0x00000918       0x38 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exception_entry.o)
+ .debug_aranges
+                0x00000950       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_file.o)
+ .debug_aranges
+                0x00000970       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_get_fd.o)
+ .debug_aranges
+                0x00000990       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x000009b0       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_aranges
+                0x000009d0       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x000009f0       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x00000a10       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x00000a30       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a(lib2-divmod.o)
+ .debug_aranges
+                0x00000a50       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exit.o)
+
+.debug_pubnames
+                0x00000000     0x234d
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x67 obj/default/hello_ucosii.o
+ .debug_pubnames
+                0x00000067       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o)
+ .debug_pubnames
+                0x0000008e       0x1d c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_pubnames
+                0x000000ab       0x23 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o)
+ .debug_pubnames
+                0x000000ce       0x39 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .debug_pubnames
+                0x00000107       0xce c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+ .debug_pubnames
+                0x000001d5       0x1d c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memchr.o)
+ .debug_pubnames
+                0x000001f2       0x1d c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_pubnames
+                0x0000020f       0x1e c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memmove.o)
+ .debug_pubnames
+                0x0000022d       0x21 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-reallocr.o)
+ .debug_pubnames
+                0x0000024e       0x1e c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-sbrkr.o)
+ .debug_pubnames
+                0x0000026c       0x22 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-wsetup.o)
+ .debug_pubnames
+                0x0000028e       0x2b c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fflush.o)
+ .debug_pubnames
+                0x000002b9       0xdb c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o)
+ .debug_pubnames
+                0x00000394       0x31 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-freer.o)
+ .debug_pubnames
+                0x000003c5       0x2e c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fwalk.o)
+ .debug_pubnames
+                0x000003f3       0x1c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .debug_pubnames
+                0x0000040f       0x23 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-makebuf.o)
+ .debug_pubnames
+                0x00000432       0x1d c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memset.o)
+ .debug_pubnames
+                0x0000044f       0x44 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o)
+ .debug_pubnames
+                0x00000493       0x1f c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-writer.o)
+ .debug_pubnames
+                0x000004b2       0x1f c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-closer.o)
+ .debug_pubnames
+                0x000004d1       0x2b c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fclose.o)
+ .debug_pubnames
+                0x000004fc       0x1f c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fstatr.o)
+ .debug_pubnames
+                0x0000051b       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-isattyr.o)
+ .debug_pubnames
+                0x0000053b       0x1f c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-lseekr.o)
+ .debug_pubnames
+                0x0000055a       0x1e c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-readr.o)
+ .debug_pubnames
+                0x00000578       0x1c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o)
+ .debug_pubnames
+                0x00000594       0x78 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+ .debug_pubnames
+                0x0000060c       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_errno.o)
+ .debug_pubnames
+                0x0000062c       0x1c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_fstat.o)
+ .debug_pubnames
+                0x00000648       0x1d ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_isatty.o)
+ .debug_pubnames
+                0x00000665       0x1c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_lseek.o)
+ .debug_pubnames
+                0x00000681       0x46 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o)
+ .debug_pubnames
+                0x000006c7       0x1b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_read.o)
+ .debug_pubnames
+                0x000006e2       0x25 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_release_fd.o)
+ .debug_pubnames
+                0x00000707       0x1b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sbrk.o)
+ .debug_pubnames
+                0x00000722       0x1c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_write.o)
+ .debug_pubnames
+                0x0000073e       0x41 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+ .debug_pubnames
+                0x0000077f       0x48 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+ .debug_pubnames
+                0x000007c7      0x3f8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+ .debug_pubnames
+                0x00000bbf      0x3c5 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_dbg.o)
+ .debug_pubnames
+                0x00000f84       0xd0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_flag.o)
+ .debug_pubnames
+                0x00001054       0x7c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_mem.o)
+ .debug_pubnames
+                0x000010d0       0xa9 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_q.o)
+ .debug_pubnames
+                0x00001179       0x8a ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_sem.o)
+ .debug_pubnames
+                0x00001203       0xe5 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_task.o)
+ .debug_pubnames
+                0x000012e8       0x62 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_time.o)
+ .debug_pubnames
+                0x0000134a       0x34 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o)
+ .debug_pubnames
+                0x0000137e      0x278 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_fifo_util.o)
+ .debug_pubnames
+                0x000015f6       0xa5 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_pubnames
+                0x0000169b       0x55 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_pubnames
+                0x000016f0       0x34 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_pubnames
+                0x00001724       0x33 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_pubnames
+                0x00001757       0x34 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_pubnames
+                0x0000178b       0x2f ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_timer_sc.o)
+ .debug_pubnames
+                0x000017ba      0x25e ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio.o)
+ .debug_pubnames
+                0x00001a18      0x2ab ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio_and_video_config.o)
+ .debug_pubnames
+                0x00001cc3      0x1cd ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_character_lcd.o)
+ .debug_pubnames
+                0x00001e90       0x26 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_alarm_start.o)
+ .debug_pubnames
+                0x00001eb6       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev_llist_insert.o)
+ .debug_pubnames
+                0x00001ee1       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_ctors.o)
+ .debug_pubnames
+                0x00001f01       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_dtors.o)
+ .debug_pubnames
+                0x00001f21       0x23 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_dev.o)
+ .debug_pubnames
+                0x00001f44       0x6e ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic.o)
+ .debug_pubnames
+                0x00001fb2       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic_isr_register.o)
+ .debug_pubnames
+                0x00001fdd       0x26 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_io_redirect.o)
+ .debug_pubnames
+                0x00002003       0x32 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+ .debug_pubnames
+                0x00002035       0x3b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_vars.o)
+ .debug_pubnames
+                0x00002070       0x1b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_open.o)
+ .debug_pubnames
+                0x0000208b       0x68 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_tick.o)
+ .debug_pubnames
+                0x000020f3       0x31 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_pubnames
+                0x00002124       0xcd ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_c.o)
+ .debug_pubnames
+                0x000021f1       0x24 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_file.o)
+ .debug_pubnames
+                0x00002215       0x21 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_get_fd.o)
+ .debug_pubnames
+                0x00002236       0x2a c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_pubnames
+                0x00002260       0x1b c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_pubnames
+                0x0000227b       0x1d c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_pubnames
+                0x00002298       0x2a c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_pubnames
+                0x000022c2       0x27 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_pubnames
+                0x000022e9       0x48 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a(lib2-divmod.o)
+ .debug_pubnames
+                0x00002331       0x1c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exit.o)
+
+.debug_info     0x00000000    0x28c7c
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0x8e ../LaserHarpBuildClean_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x0000008e      0x6fa obj/default/hello_ucosii.o
+ .debug_info    0x00000788      0xa25 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o)
+ .debug_info    0x000011ad       0xdb c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_info    0x00001288      0xa88 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o)
+ .debug_info    0x00001d10      0x93d c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .debug_info    0x0000264d      0xcd0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+ .debug_info    0x0000331d      0x138 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memchr.o)
+ .debug_info    0x00003455      0x106 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_info    0x0000355b      0x13e c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memmove.o)
+ .debug_info    0x00003699      0xbd7 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-reallocr.o)
+ .debug_info    0x00004270      0x962 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-sbrkr.o)
+ .debug_info    0x00004bd2      0x95d c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-wsetup.o)
+ .debug_info    0x0000552f      0x9fe c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fflush.o)
+ .debug_info    0x00005f2d      0xb72 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o)
+ .debug_info    0x00006a9f      0xbc9 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-freer.o)
+ .debug_info    0x00007668      0xaed c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fwalk.o)
+ .debug_info    0x00008155       0x8c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .debug_info    0x000081e1      0xb1a c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-makebuf.o)
+ .debug_info    0x00008cfb      0x113 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memset.o)
+ .debug_info    0x00008e0e      0xaac c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o)
+ .debug_info    0x000098ba      0x993 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-writer.o)
+ .debug_info    0x0000a24d      0x958 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-closer.o)
+ .debug_info    0x0000aba5      0x994 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fclose.o)
+ .debug_info    0x0000b539      0xafc c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fstatr.o)
+ .debug_info    0x0000c035      0x958 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-isattyr.o)
+ .debug_info    0x0000c98d      0x981 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-lseekr.o)
+ .debug_info    0x0000d30e      0x98c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-readr.o)
+ .debug_info    0x0000dc9a      0x4ca ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o)
+ .debug_info    0x0000e164      0x7ec ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+ .debug_info    0x0000e950      0x173 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_errno.o)
+ .debug_info    0x0000eac3      0x6c3 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_fstat.o)
+ .debug_info    0x0000f186      0x6c9 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_isatty.o)
+ .debug_info    0x0000f84f      0x4fd ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_lseek.o)
+ .debug_info    0x0000fd4c      0x3ec ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o)
+ .debug_info    0x00010138      0x6ed ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_read.o)
+ .debug_info    0x00010825      0x45e ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_release_fd.o)
+ .debug_info    0x00010c83      0x2c6 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sbrk.o)
+ .debug_info    0x00010f49      0x6f6 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_write.o)
+ .debug_info    0x0001163f     0x11e2 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+ .debug_info    0x00012821     0x133e ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+ .debug_info    0x00013b5f     0x1bf8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+ .debug_info    0x00015757     0x113d ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_dbg.o)
+ .debug_info    0x00016894     0x1253 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_flag.o)
+ .debug_info    0x00017ae7      0x81d ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_mem.o)
+ .debug_info    0x00018304     0x108d ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_q.o)
+ .debug_info    0x00019391      0xcf5 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_sem.o)
+ .debug_info    0x0001a086     0x136b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_task.o)
+ .debug_info    0x0001b3f1      0x9ef ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_time.o)
+ .debug_info    0x0001bde0      0xb12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o)
+ .debug_info    0x0001c8f2      0x775 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_fifo_util.o)
+ .debug_info    0x0001d067      0x9e1 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_info    0x0001da48      0x95f ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_info    0x0001e3a7      0x64b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_info    0x0001e9f2      0x807 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_info    0x0001f1f9      0x7fe ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x0001f9f7      0x39a ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_timer_sc.o)
+ .debug_info    0x0001fd91      0xb37 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio.o)
+ .debug_info    0x000208c8      0xc19 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio_and_video_config.o)
+ .debug_info    0x000214e1      0x90b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_character_lcd.o)
+ .debug_info    0x00021dec      0x451 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_alarm_start.o)
+ .debug_info    0x0002223d      0x2c6 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x00022503      0x11e ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_ctors.o)
+ .debug_info    0x00022621      0x11d ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_dtors.o)
+ .debug_info    0x0002273e      0x47b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_dev.o)
+ .debug_info    0x00022bb9      0x4a2 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic.o)
+ .debug_info    0x0002305b      0x323 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic_isr_register.o)
+ .debug_info    0x0002337e      0x6f8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_io_redirect.o)
+ .debug_info    0x00023a76       0x93 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o)
+ .debug_info    0x00023b09      0x2c9 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+ .debug_info    0x00023dd2      0x176 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_vars.o)
+ .debug_info    0x00023f48      0x579 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_open.o)
+ .debug_info    0x000244c1      0x420 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_tick.o)
+ .debug_info    0x000248e1      0x172 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_info    0x00024a53       0x92 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_a.o)
+ .debug_info    0x00024ae5     0x12e2 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_c.o)
+ .debug_info    0x00025dc7       0x99 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exception_entry.o)
+ .debug_info    0x00025e60      0x482 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_file.o)
+ .debug_info    0x000262e2      0x614 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_get_fd.o)
+ .debug_info    0x000268f6      0x181 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_info    0x00026a77      0x93f c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_info    0x000273b6      0x115 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_info    0x000274cb      0x99c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_info    0x00027e67      0x9e2 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_info    0x00028849      0x21c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a(lib2-divmod.o)
+ .debug_info    0x00028a65      0x217 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exit.o)
+
+.debug_abbrev   0x00000000     0x6c3e
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x14 ../LaserHarpBuildClean_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x00000014      0x149 obj/default/hello_ucosii.o
+ .debug_abbrev  0x0000015d      0x1ac c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o)
+ .debug_abbrev  0x00000309       0x8b c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x00000394      0x1a3 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o)
+ .debug_abbrev  0x00000537      0x157 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000068e      0x216 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+ .debug_abbrev  0x000008a4       0xb5 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memchr.o)
+ .debug_abbrev  0x00000959       0xb5 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x00000a0e       0xb5 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x00000ac3      0x1c3 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-reallocr.o)
+ .debug_abbrev  0x00000c86      0x18c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x00000e12      0x170 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-wsetup.o)
+ .debug_abbrev  0x00000f82      0x1c6 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fflush.o)
+ .debug_abbrev  0x00001148      0x24c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o)
+ .debug_abbrev  0x00001394      0x1d9 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-freer.o)
+ .debug_abbrev  0x0000156d      0x1e3 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fwalk.o)
+ .debug_abbrev  0x00001750       0x3b c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x0000178b      0x197 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-makebuf.o)
+ .debug_abbrev  0x00001922       0xb8 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memset.o)
+ .debug_abbrev  0x000019da      0x1c9 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o)
+ .debug_abbrev  0x00001ba3      0x184 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-writer.o)
+ .debug_abbrev  0x00001d27      0x17f c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-closer.o)
+ .debug_abbrev  0x00001ea6      0x1a7 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fclose.o)
+ .debug_abbrev  0x0000204d      0x18e c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fstatr.o)
+ .debug_abbrev  0x000021db      0x17f c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-isattyr.o)
+ .debug_abbrev  0x0000235a      0x18e c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-lseekr.o)
+ .debug_abbrev  0x000024e8      0x17f c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-readr.o)
+ .debug_abbrev  0x00002667      0x102 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o)
+ .debug_abbrev  0x00002769      0x10a ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+ .debug_abbrev  0x00002873       0x5e ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_errno.o)
+ .debug_abbrev  0x000028d1      0x102 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_fstat.o)
+ .debug_abbrev  0x000029d3      0x102 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_isatty.o)
+ .debug_abbrev  0x00002ad5      0x102 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_lseek.o)
+ .debug_abbrev  0x00002bd7      0x120 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o)
+ .debug_abbrev  0x00002cf7      0x102 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_read.o)
+ .debug_abbrev  0x00002df9       0xd3 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_release_fd.o)
+ .debug_abbrev  0x00002ecc      0x115 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sbrk.o)
+ .debug_abbrev  0x00002fe1      0x107 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_write.o)
+ .debug_abbrev  0x000030e8      0x1b3 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+ .debug_abbrev  0x0000329b      0x234 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+ .debug_abbrev  0x000034cf      0x2aa ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+ .debug_abbrev  0x00003779      0x114 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_dbg.o)
+ .debug_abbrev  0x0000388d      0x21b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_flag.o)
+ .debug_abbrev  0x00003aa8      0x235 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_mem.o)
+ .debug_abbrev  0x00003cdd      0x20d ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_q.o)
+ .debug_abbrev  0x00003eea      0x20d ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_sem.o)
+ .debug_abbrev  0x000040f7      0x20e ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_task.o)
+ .debug_abbrev  0x00004305      0x1de ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_time.o)
+ .debug_abbrev  0x000044e3      0x1b9 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x0000469c       0xa0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_fifo_util.o)
+ .debug_abbrev  0x0000473c      0x13c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_abbrev  0x00004878      0x21e ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_abbrev  0x00004a96      0x135 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_abbrev  0x00004bcb      0x1ee ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_abbrev  0x00004db9      0x1ea ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x00004fa3      0x137 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_timer_sc.o)
+ .debug_abbrev  0x000050da      0x16b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio.o)
+ .debug_abbrev  0x00005245      0x117 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio_and_video_config.o)
+ .debug_abbrev  0x0000535c      0x127 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_character_lcd.o)
+ .debug_abbrev  0x00005483      0x172 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_alarm_start.o)
+ .debug_abbrev  0x000055f5       0xf6 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x000056eb       0x76 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_ctors.o)
+ .debug_abbrev  0x00005761       0x76 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_dtors.o)
+ .debug_abbrev  0x000057d7       0xd6 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x000058ad      0x134 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic.o)
+ .debug_abbrev  0x000059e1      0x14e ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic_isr_register.o)
+ .debug_abbrev  0x00005b2f       0xf7 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_io_redirect.o)
+ .debug_abbrev  0x00005c26       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o)
+ .debug_abbrev  0x00005c38      0x124 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+ .debug_abbrev  0x00005d5c       0x44 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_vars.o)
+ .debug_abbrev  0x00005da0      0x119 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_open.o)
+ .debug_abbrev  0x00005eb9      0x150 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_tick.o)
+ .debug_abbrev  0x00006009       0x3f ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_abbrev  0x00006048       0x14 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_a.o)
+ .debug_abbrev  0x0000605c      0x1d0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_c.o)
+ .debug_abbrev  0x0000622c       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exception_entry.o)
+ .debug_abbrev  0x0000623e       0xd6 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_file.o)
+ .debug_abbrev  0x00006314      0x173 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_get_fd.o)
+ .debug_abbrev  0x00006487       0xb7 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000653e      0x16e c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_abbrev  0x000066ac       0x7c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x00006728      0x1ae c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x000068d6      0x1de c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x00006ab4       0xe0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x00006b94       0xaa ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exit.o)
+
+.debug_line     0x00000000    0x15063
+ *(.debug_line)
+ .debug_line    0x00000000       0x57 ../LaserHarpBuildClean_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x00000057      0x490 obj/default/hello_ucosii.o
+ .debug_line    0x000004e7      0x2f7 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o)
+ .debug_line    0x000007de      0x26d c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_line    0x00000a4b      0x641 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o)
+ .debug_line    0x0000108c      0x22d c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .debug_line    0x000012b9      0x80a c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+ .debug_line    0x00001ac3      0x303 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memchr.o)
+ .debug_line    0x00001dc6      0x1ac c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_line    0x00001f72      0x30a c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memmove.o)
+ .debug_line    0x0000227c      0x58a c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-reallocr.o)
+ .debug_line    0x00002806      0x299 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-sbrkr.o)
+ .debug_line    0x00002a9f      0x2f0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-wsetup.o)
+ .debug_line    0x00002d8f      0x40d c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fflush.o)
+ .debug_line    0x0000319c      0x601 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o)
+ .debug_line    0x0000379d      0x5eb c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-freer.o)
+ .debug_line    0x00003d88      0x34a c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fwalk.o)
+ .debug_line    0x000040d2      0x1df c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .debug_line    0x000042b1      0x3c3 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-makebuf.o)
+ .debug_line    0x00004674      0x301 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memset.o)
+ .debug_line    0x00004975      0x38c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o)
+ .debug_line    0x00004d01      0x29a c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-writer.o)
+ .debug_line    0x00004f9b      0x29a c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-closer.o)
+ .debug_line    0x00005235      0x2e8 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fclose.o)
+ .debug_line    0x0000551d      0x264 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fstatr.o)
+ .debug_line    0x00005781      0x29b c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-isattyr.o)
+ .debug_line    0x00005a1c      0x29a c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-lseekr.o)
+ .debug_line    0x00005cb6      0x299 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-readr.o)
+ .debug_line    0x00005f4f      0x2f9 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o)
+ .debug_line    0x00006248      0x2ba ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+ .debug_line    0x00006502      0x1aa ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_errno.o)
+ .debug_line    0x000066ac      0x301 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_fstat.o)
+ .debug_line    0x000069ad      0x302 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_isatty.o)
+ .debug_line    0x00006caf      0x301 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_lseek.o)
+ .debug_line    0x00006fb0      0x349 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o)
+ .debug_line    0x000072f9      0x328 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_read.o)
+ .debug_line    0x00007621      0x279 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_release_fd.o)
+ .debug_line    0x0000789a      0x261 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sbrk.o)
+ .debug_line    0x00007afb      0x329 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_write.o)
+ .debug_line    0x00007e24      0x2bf ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+ .debug_line    0x000080e3      0x37b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+ .debug_line    0x0000845e     0x1663 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+ .debug_line    0x00009ac1      0x388 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_dbg.o)
+ .debug_line    0x00009e49     0x11e7 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_flag.o)
+ .debug_line    0x0000b030      0x78a ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_mem.o)
+ .debug_line    0x0000b7ba      0xe6b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_q.o)
+ .debug_line    0x0000c625      0xa23 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_sem.o)
+ .debug_line    0x0000d048     0x112c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_task.o)
+ .debug_line    0x0000e174      0x52f ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_time.o)
+ .debug_line    0x0000e6a3      0x37e ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o)
+ .debug_line    0x0000ea21      0x46a ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_fifo_util.o)
+ .debug_line    0x0000ee8b      0x319 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_line    0x0000f1a4      0x598 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_line    0x0000f73c      0x356 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_line    0x0000fa92      0x494 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_line    0x0000ff26      0x4a2 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x000103c8      0x2b3 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_timer_sc.o)
+ .debug_line    0x0001067b      0x5d9 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio.o)
+ .debug_line    0x00010c54      0x5a7 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio_and_video_config.o)
+ .debug_line    0x000111fb      0x4c5 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_character_lcd.o)
+ .debug_line    0x000116c0      0x2dc ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_alarm_start.o)
+ .debug_line    0x0001199c      0x25a ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x00011bf6       0x83 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_ctors.o)
+ .debug_line    0x00011c79       0x83 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_dtors.o)
+ .debug_line    0x00011cfc      0x2da ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_dev.o)
+ .debug_line    0x00011fd6      0x2c8 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic.o)
+ .debug_line    0x0001229e      0x249 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic_isr_register.o)
+ .debug_line    0x000124e7      0x323 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_io_redirect.o)
+ .debug_line    0x0001280a       0x6b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o)
+ .debug_line    0x00012875      0x2c4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+ .debug_line    0x00012b39       0x72 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_vars.o)
+ .debug_line    0x00012bab      0x35f ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_open.o)
+ .debug_line    0x00012f0a      0x316 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_tick.o)
+ .debug_line    0x00013220      0x1ce ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_line    0x000133ee       0x86 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_a.o)
+ .debug_line    0x00013474      0x328 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_c.o)
+ .debug_line    0x0001379c       0xab ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exception_entry.o)
+ .debug_line    0x00013847      0x2eb ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_file.o)
+ .debug_line    0x00013b32      0x31b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_get_fd.o)
+ .debug_line    0x00013e4d      0x200 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_line    0x0001404d      0x238 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_line    0x00014285      0x29f c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_line    0x00014524      0x313 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_line    0x00014837      0x367 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_line    0x00014b9e      0x24f c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a(lib2-divmod.o)
+ .debug_line    0x00014ded      0x276 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exit.o)
+
+.debug_frame    0x00000000     0x235c
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x68 obj/default/hello_ucosii.o
+ .debug_frame   0x00000068       0x3c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o)
+ .debug_frame   0x000000a4       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_frame   0x000000c4       0x38 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o)
+ .debug_frame   0x000000fc       0x38 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000134       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memchr.o)
+ .debug_frame   0x00000154       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000174       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memmove.o)
+ .debug_frame   0x00000194       0x38 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-reallocr.o)
+ .debug_frame   0x000001cc       0x2c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x000001f8       0x2c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-wsetup.o)
+ .debug_frame   0x00000224       0x40 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fflush.o)
+ .debug_frame   0x00000264      0x118 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o)
+ .debug_frame   0x0000037c       0x4c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-freer.o)
+ .debug_frame   0x000003c8       0x60 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fwalk.o)
+ .debug_frame   0x00000428       0x2c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-makebuf.o)
+ .debug_frame   0x00000454       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000474       0x78 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o)
+ .debug_frame   0x000004ec       0x2c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-writer.o)
+ .debug_frame   0x00000518       0x2c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-closer.o)
+ .debug_frame   0x00000544       0x3c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fclose.o)
+ .debug_frame   0x00000580       0x2c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fstatr.o)
+ .debug_frame   0x000005ac       0x2c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-isattyr.o)
+ .debug_frame   0x000005d8       0x2c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-lseekr.o)
+ .debug_frame   0x00000604       0x2c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-readr.o)
+ .debug_frame   0x00000630       0x48 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o)
+ .debug_frame   0x00000678       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+ .debug_frame   0x000006a4       0x48 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_fstat.o)
+ .debug_frame   0x000006ec       0x48 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_isatty.o)
+ .debug_frame   0x00000734       0x48 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_lseek.o)
+ .debug_frame   0x0000077c       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o)
+ .debug_frame   0x000007a8       0x48 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_read.o)
+ .debug_frame   0x000007f0       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_release_fd.o)
+ .debug_frame   0x0000081c       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sbrk.o)
+ .debug_frame   0x00000848       0x48 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_write.o)
+ .debug_frame   0x00000890       0x4c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+ .debug_frame   0x000008dc       0x4c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+ .debug_frame   0x00000928      0x3e4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+ .debug_frame   0x00000d0c       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_dbg.o)
+ .debug_frame   0x00000d38      0x180 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_flag.o)
+ .debug_frame   0x00000eb8       0xd4 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_mem.o)
+ .debug_frame   0x00000f8c      0x144 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_q.o)
+ .debug_frame   0x000010d0       0xf0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_sem.o)
+ .debug_frame   0x000011c0      0x160 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_task.o)
+ .debug_frame   0x00001320       0xa0 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_time.o)
+ .debug_frame   0x000013c0       0x64 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o)
+ .debug_frame   0x00001424      0x1ec ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_fifo_util.o)
+ .debug_frame   0x00001610       0x80 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_frame   0x00001690       0x80 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_frame   0x00001710       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_frame   0x0000173c       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_frame   0x00001768       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x00001794       0x48 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_timer_sc.o)
+ .debug_frame   0x000017dc      0x208 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio.o)
+ .debug_frame   0x000019e4      0x1ec ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio_and_video_config.o)
+ .debug_frame   0x00001bd0      0x17c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_character_lcd.o)
+ .debug_frame   0x00001d4c       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_alarm_start.o)
+ .debug_frame   0x00001d78       0x48 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x00001dc0       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_ctors.o)
+ .debug_frame   0x00001dec       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_dtors.o)
+ .debug_frame   0x00001e18       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_dev.o)
+ .debug_frame   0x00001e44       0x80 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic.o)
+ .debug_frame   0x00001ec4       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic_isr_register.o)
+ .debug_frame   0x00001ef0       0x48 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_io_redirect.o)
+ .debug_frame   0x00001f38       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+ .debug_frame   0x00001f64       0x64 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_open.o)
+ .debug_frame   0x00001fc8       0x48 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_tick.o)
+ .debug_frame   0x00002010       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_frame   0x0000203c      0x128 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_c.o)
+ .debug_frame   0x00002164       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_file.o)
+ .debug_frame   0x00002190       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_get_fd.o)
+ .debug_frame   0x000021bc       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_frame   0x000021dc       0x28 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_frame   0x00002204       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x00002224       0x34 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00002258       0x4c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000022a4       0x70 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a(lib2-divmod.o)
+ .debug_frame   0x00002314       0x48 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exit.o)
+
+.debug_str      0x00000000     0x1a62
+ *(.debug_str)
+ .debug_str     0x00000000       0x38 obj/default/hello_ucosii.o
+ .debug_str     0x00000038      0x4cf c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o)
+                                0x549 (size before relaxing)
+ .debug_str     0x00000507       0xdb c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+                                0x17d (size before relaxing)
+ .debug_str     0x000005e2       0x66 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o)
+                                0x563 (size before relaxing)
+ .debug_str     0x00000648       0xe4 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+                                0x51a (size before relaxing)
+ .debug_str     0x0000072c      0x29a c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+                                0x6f1 (size before relaxing)
+ .debug_str     0x000009c6       0x63 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memchr.o)
+                                0x18b (size before relaxing)
+ .debug_str     0x00000a29       0x69 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+                                0x128 (size before relaxing)
+ .debug_str     0x00000a92       0x4d c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memmove.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x00000adf       0x59 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-reallocr.o)
+                                0x5c3 (size before relaxing)
+ .debug_str     0x00000b38       0x50 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-sbrkr.o)
+                                0x50b (size before relaxing)
+ .debug_str     0x00000b88       0x46 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-wsetup.o)
+                                0x50c (size before relaxing)
+ .debug_str     0x00000bce       0x52 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fflush.o)
+                                0x532 (size before relaxing)
+ .debug_str     0x00000c20      0x102 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o)
+                                0x5f4 (size before relaxing)
+ .debug_str     0x00000d22       0x3c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-freer.o)
+                                0x643 (size before relaxing)
+ .debug_str     0x00000d5e       0x5e c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fwalk.o)
+                                0x535 (size before relaxing)
+ .debug_str     0x00000dbc       0x3d c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x00000df9      0x123 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-makebuf.o)
+                                0x606 (size before relaxing)
+ .debug_str     0x00000f1c       0x42 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memset.o)
+                                0x17e (size before relaxing)
+ .debug_str     0x00000f5e       0x62 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o)
+                                0x531 (size before relaxing)
+ .debug_str     0x00000fc0       0x4c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-writer.o)
+                                0x50e (size before relaxing)
+ .debug_str     0x0000100c       0x43 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-closer.o)
+                                0x4fe (size before relaxing)
+ .debug_str     0x0000104f       0x50 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fclose.o)
+                                0x516 (size before relaxing)
+ .debug_str     0x0000109f       0x49 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fstatr.o)
+                                0x5f1 (size before relaxing)
+ .debug_str     0x000010e8       0x45 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-isattyr.o)
+                                0x500 (size before relaxing)
+ .debug_str     0x0000112d       0x43 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-lseekr.o)
+                                0x50c (size before relaxing)
+ .debug_str     0x00001170       0x41 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-readr.o)
+                                0x50c (size before relaxing)
+ .debug_str     0x000011b1       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o)
+ .debug_str     0x000011c3       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+ .debug_str     0x000011d5       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_errno.o)
+ .debug_str     0x000011e7       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_fstat.o)
+ .debug_str     0x000011f9       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_isatty.o)
+ .debug_str     0x0000120b       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_lseek.o)
+ .debug_str     0x0000121d       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o)
+ .debug_str     0x0000122f       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_read.o)
+ .debug_str     0x00001241       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_release_fd.o)
+ .debug_str     0x00001253       0x1a ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sbrk.o)
+ .debug_str     0x0000126d       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_write.o)
+ .debug_str     0x0000127f       0x36 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+ .debug_str     0x000012b5       0x36 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+ .debug_str     0x000012eb       0x46 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+ .debug_str     0x00001331       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_dbg.o)
+ .debug_str     0x0000135c       0x4e ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_flag.o)
+ .debug_str     0x000013aa       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_mem.o)
+ .debug_str     0x000013d6       0x36 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_q.o)
+ .debug_str     0x0000140c       0x36 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_sem.o)
+ .debug_str     0x00001442       0x23 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_task.o)
+ .debug_str     0x00001465       0x1f ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_time.o)
+ .debug_str     0x00001484       0x51 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o)
+ .debug_str     0x000014d5       0x42 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_fifo_util.o)
+ .debug_str     0x00001517       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_str     0x00001529       0x1a ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_str     0x00001543       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_str     0x00001555       0x22 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_str     0x00001577       0x22 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_str     0x00001599       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_timer_sc.o)
+ .debug_str     0x000015ab       0x4f ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio.o)
+ .debug_str     0x000015fa       0x46 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio_and_video_config.o)
+ .debug_str     0x00001640       0x55 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_character_lcd.o)
+ .debug_str     0x00001695       0x23 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_alarm_start.o)
+ .debug_str     0x000016b8       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev_llist_insert.o)
+ .debug_str     0x000016ca       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_dev.o)
+ .debug_str     0x000016dc       0x18 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic.o)
+ .debug_str     0x000016f4       0x1a ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic_isr_register.o)
+ .debug_str     0x0000170e       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_io_redirect.o)
+ .debug_str     0x00001720       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+ .debug_str     0x00001732       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_open.o)
+ .debug_str     0x00001744       0x1a ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_tick.o)
+ .debug_str     0x0000175e       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_str     0x00001770       0x20 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_c.o)
+ .debug_str     0x00001790       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_file.o)
+ .debug_str     0x000017a2       0x12 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_get_fd.o)
+ .debug_str     0x000017b4       0x3b c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x000017ef       0x3e c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+                                0x50c (size before relaxing)
+ .debug_str     0x0000182d       0x42 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+                                0x16a (size before relaxing)
+ .debug_str     0x0000186f       0x51 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+                                0x524 (size before relaxing)
+ .debug_str     0x000018c0       0x7b c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+                                0x54e (size before relaxing)
+ .debug_str     0x0000193b      0x10b c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a(lib2-divmod.o)
+                                0x1b4 (size before relaxing)
+ .debug_str     0x00001a46       0x1c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exit.o)
+
+.debug_loc      0x00000000     0x5bc9
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x82 obj/default/hello_ucosii.o
+ .debug_loc     0x00000082       0xa2 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-puts.o)
+ .debug_loc     0x00000124       0x3c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_loc     0x00000160      0x4e4 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o)
+ .debug_loc     0x00000644      0xaeb c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+ .debug_loc     0x0000112f      0x106 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memchr.o)
+ .debug_loc     0x00001235       0xca c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_loc     0x000012ff      0x117 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memmove.o)
+ .debug_loc     0x00001416      0x8c0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-reallocr.o)
+ .debug_loc     0x00001cd6       0x5b c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-sbrkr.o)
+ .debug_loc     0x00001d31       0x7c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-wsetup.o)
+ .debug_loc     0x00001dad      0x1f6 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fflush.o)
+ .debug_loc     0x00001fa3      0x19f c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-findfp.o)
+ .debug_loc     0x00002142      0x4a7 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-freer.o)
+ .debug_loc     0x000025e9      0x1d2 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fwalk.o)
+ .debug_loc     0x000027bb      0x11c c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-makebuf.o)
+ .debug_loc     0x000028d7       0xa1 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memset.o)
+ .debug_loc     0x00002978      0x21f c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-stdio.o)
+ .debug_loc     0x00002b97       0x97 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-writer.o)
+ .debug_loc     0x00002c2e       0x5b c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-closer.o)
+ .debug_loc     0x00002c89       0xe4 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fclose.o)
+ .debug_loc     0x00002d6d       0x79 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fstatr.o)
+ .debug_loc     0x00002de6       0x5b c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-isattyr.o)
+ .debug_loc     0x00002e41       0x97 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-lseekr.o)
+ .debug_loc     0x00002ed8       0x97 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-readr.o)
+ .debug_loc     0x00002f6f       0x56 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_close.o)
+ .debug_loc     0x00002fc5       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev.o)
+ .debug_loc     0x00002ff0       0x56 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_fstat.o)
+ .debug_loc     0x00003046       0x57 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_isatty.o)
+ .debug_loc     0x0000309d       0x56 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_lseek.o)
+ .debug_loc     0x000030f3       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_main.o)
+ .debug_loc     0x0000311e       0x56 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_read.o)
+ .debug_loc     0x00003174       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_release_fd.o)
+ .debug_loc     0x0000319f       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sbrk.o)
+ .debug_loc     0x000031ca       0x56 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_write.o)
+ .debug_loc     0x00003220       0x57 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_env_lock.o)
+ .debug_loc     0x00003277       0x57 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_malloc_lock.o)
+ .debug_loc     0x000032ce      0x5e2 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_core.o)
+ .debug_loc     0x000038b0       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_dbg.o)
+ .debug_loc     0x000038db      0x232 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_flag.o)
+ .debug_loc     0x00003b0d      0x12d ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_mem.o)
+ .debug_loc     0x00003c3a      0x1da ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_q.o)
+ .debug_loc     0x00003e14      0x158 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_sem.o)
+ .debug_loc     0x00003f6c      0x207 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_task.o)
+ .debug_loc     0x00004173       0xd7 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_time.o)
+ .debug_loc     0x0000424a       0x81 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_sys_init.o)
+ .debug_loc     0x000042cb      0x2db ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_fifo_util.o)
+ .debug_loc     0x000045a6       0xac ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_loc     0x00004652       0xac ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_loc     0x000046fe       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_loc     0x00004729       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_loc     0x00004755       0x2c ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_loc     0x00004781       0x56 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_timer_sc.o)
+ .debug_loc     0x000047d7      0x306 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio.o)
+ .debug_loc     0x00004add      0x2db ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_audio_and_video_config.o)
+ .debug_loc     0x00004db8      0x22f ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_up_avalon_character_lcd.o)
+ .debug_loc     0x00004fe7       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_alarm_start.o)
+ .debug_loc     0x00005012       0x56 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_dev_llist_insert.o)
+ .debug_loc     0x00005068       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_ctors.o)
+ .debug_loc     0x00005093       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_do_dtors.o)
+ .debug_loc     0x000050be       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_dev.o)
+ .debug_loc     0x000050e9       0xac ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic.o)
+ .debug_loc     0x00005195       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_iic_isr_register.o)
+ .debug_loc     0x000051c0       0x56 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_io_redirect.o)
+ .debug_loc     0x00005216       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_handler.o)
+ .debug_loc     0x00005241       0x81 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_open.o)
+ .debug_loc     0x000052c2       0x56 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_tick.o)
+ .debug_loc     0x00005318       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_loc     0x00005343      0x1ae ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(os_cpu_c.o)
+ .debug_loc     0x000054f1       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_find_file.o)
+ .debug_loc     0x0000551c       0x2b ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_get_fd.o)
+ .debug_loc     0x00005547       0x1e c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_loc     0x00005565       0x3d c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_loc     0x000055a2      0x114 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_loc     0x000056b6      0x120 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_loc     0x000057d6      0x1cb c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_loc     0x000059a1      0x1d2 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a(lib2-divmod.o)
+ .debug_loc     0x00005b73       0x56 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exit.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x00000000       0x20
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x00000000       0x20 ../LaserHarpBuildClean_bsp//obj/HAL/src/crt0.o
+                0x01000000                __alt_data_end = 0x1000000
+                0x01000000                PROVIDE (__alt_stack_pointer, __alt_data_end)
+                0x00837158                PROVIDE (__alt_stack_limit, __alt_stack_base)
+                0x00837158                PROVIDE (__alt_heap_start, end)
+                0x01000000                PROVIDE (__alt_heap_limit, 0x1000000)
+OUTPUT(LaserHarpBuildClean.elf elf32-littlenios2)
+
+.debug_ranges   0x00000000      0x2f0
+ .debug_ranges  0x00000000       0x28 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fvwrite.o)
+ .debug_ranges  0x00000028       0x70 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-mallocr.o)
+ .debug_ranges  0x00000098      0x110 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-reallocr.o)
+ .debug_ranges  0x000001a8       0x20 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fflush.o)
+ .debug_ranges  0x000001c8       0xa0 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-fwalk.o)
+ .debug_ranges  0x00000268       0x18 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_ranges  0x00000280       0x28 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_irq_entry.o)
+ .debug_ranges  0x000002a8       0x30 ../LaserHarpBuildClean_bsp/\libucosii_bsp.a(alt_exception_entry.o)
+ .debug_ranges  0x000002d8       0x18 c:/altera/12.1sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)

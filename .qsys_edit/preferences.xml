@@ -6,18 +6,19 @@
    <connections preferredWidth="367" />
    <irq preferredWidth="34" />
    <inputclock preferredWidth="187" />
-   <name preferredWidth="321" />
-   <export preferredWidth="272" />
+   <name preferredWidth="213" />
+   <export preferredWidth="212" />
   </columns>
  </systemtable>
  <clocktable>
   <columns>
-   <clockname preferredWidth="346" />
-   <clocksource preferredWidth="346" />
-   <frequency preferredWidth="345" />
+   <clockname preferredWidth="372" />
+   <clocksource preferredWidth="372" />
+   <frequency preferredWidth="372" />
   </columns>
  </clocktable>
- <library expandedCategories="Library,Project" />
- <window width="1440" height="860" x="0" y="0" />
+ <library
+   expandedCategories="Library,Library/Peripherals,Project,Library/Peripherals/Microcontroller Peripherals" />
+ <window width="1428" height="860" x="0" y="0" />
  <hdlexample language="VERILOG" />
 </preferences>

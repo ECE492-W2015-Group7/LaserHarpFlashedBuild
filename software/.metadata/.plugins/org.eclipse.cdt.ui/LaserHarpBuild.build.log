@@ -1,0 +1,10 @@
+
+**** Build of configuration Nios II for project LaserHarpBuild ****
+
+make all 
+Info: Building ../LaserHarpBuild_bsp/
+make --no-print-directory -C ../LaserHarpBuild_bsp/
+[BSP build complete]
+[LaserHarpBuild build complete]
+
+**** Build Finished ****
